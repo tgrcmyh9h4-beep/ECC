@@ -1,0 +1,144 @@
+# Some, Any, Much, Many and Other Quantifiers
+
+## Some and any
+| Word | Used in | Example |
+| some | positive sentences | I have **some** friends in Delhi. There is **some** milk. |
+| any | negatives | I don't have **any** money. There aren't **any** eggs. |
+| any | questions | Do you have **any** questions? Is there **any** sugar? |
+| some | offers and requests | Would you like **some** tea? Can I have **some** water? |
+"Any" in a positive sentence means "it doesn't matter which": "Take **any** seat you like."
+
+## Much, many, a lot of
+| Word | With | Example |
+| many | countable plural (mostly questions/negatives) | How **many** brothers do you have? There aren't **many** people. |
+| much | uncountable (mostly questions/negatives) | How **much** money do you need? I don't have **much** time. |
+| a lot of / lots of | both (mostly positive sentences) | She has **a lot of** books. We drank **lots of** water. |
+! How much people? => How **many** people?
+! I have much money. => I have **a lot of** money.
+! There are much cars. => There are **many / a lot of** cars.
+
+## A few, a little, few, little
+| | Countable | Uncountable |
+| small amount (positive) | **a few** friends | **a little** sugar |
+| almost none (negative) | **few** friends | **little** hope |
+- I have **a few** friends here. (some – I'm happy)
+- I have **few** friends here. (almost none – I'm lonely)
+- Can I have **a little** milk in my tea?
+- There is **little** time left. Hurry!
+
+## Too much, too many, enough
+- There are **too many** cars in the city. (countable)
+- I ate **too much** food. (uncountable)
+- Do we have **enough** chairs for everyone?
+
+## All, most, some, none, both, either, neither
+- **All** my friends are students.
+- **Most** people like music.
+- **None of** us knew the answer.
+- **Both** my parents are teachers.
+- You can take **either** bus. (one or the other)
+- **Neither** answer is correct. (not this one and not that one)
+- **Each** student has a book. (every one, separately)
+- **Every** day is a new chance.
+! All of people => All people / All **the** people / All **of the** people
+! Most of people => Most people
+
+## How much / how many – asking about quantity
+- **How many** children do you have?
+- **How many** times have you been to Goa?
+- **How much** is this shirt? (price)
+- **How much** water do you drink every day?
+EX: Choose the correct word
+1. I don't have (some / any) brothers. || any
+2. Would you like (some / any) coffee? || some
+3. How (much / many) sugar do you want? || much
+4. How (much / many) students are in your class? || many
+5. There are (a lot of / much) people here. || a lot of
+6. I have (a few / a little) money. Let's buy a snack. || a little
+7. She has (a few / a little) good friends. || a few
+8. There is (too much / too many) noise. || too much
+9. Are there (some / any) shops near here? || any
+10. (Both / Either) my sisters live in Canada. || Both
+
+# Numbers, Dates, Time and Money
+
+## Cardinal numbers
+| | | | |
+| 1 one | 11 eleven | 21 twenty-one | 100 a / one hundred |
+| 2 two | 12 twelve | 30 thirty | 101 a hundred and one |
+| 3 three | 13 thirteen | 40 forty | 250 two hundred and fifty |
+| 4 four | 14 fourteen | 50 fifty | 1,000 a / one thousand |
+| 5 five | 15 fifteen | 60 sixty | 10,000 ten thousand |
+| 6 six | 16 sixteen | 70 seventy | 100,000 a hundred thousand (one lakh) |
+| 7 seven | 17 seventeen | 80 eighty | 1,000,000 a / one million |
+| 8 eight | 18 eighteen | 90 ninety | 10,000,000 ten million (one crore) |
+| 9 nine | 19 nineteen | 99 ninety-nine | 1,000,000,000 a / one billion |
+| 10 ten | 20 twenty | 0 zero / "oh" | |
+> **Tip:** Be careful with stress: thir**TEEN** (13) vs **THIR**ty (30), fif**TEEN** (15) vs **FIF**ty (50).
+! two hundreds people => two **hundred** people (no -s after a number)
+But: **hundreds of** people, **thousands of** stars (when there is no exact number).
+! forty => fourty (wrong spelling!) – correct spelling is **forty**.
+
+## Ordinal numbers (order)
+1st first, 2nd second, 3rd third, 4th fourth, 5th fifth, 6th sixth, 7th seventh, 8th eighth, 9th ninth, 10th tenth, 11th eleventh, 12th twelfth, 13th thirteenth, 20th twentieth, 21st twenty-first, 22nd twenty-second, 23rd twenty-third, 30th thirtieth, 100th hundredth
+- She lives on the **third** floor.
+- Today is my **twenty-first** birthday.
+
+## Dates
+| Write | Say (British) | Say (American) |
+| 5 May / 5th May | the fifth of May | May fifth |
+| 14/02/2026 (UK) | the fourteenth of February, twenty twenty-six | – |
+| 02/14/2026 (US) | – | February fourteenth, twenty twenty-six |
+Years: 1999 = nineteen ninety-nine, 2005 = two thousand and five, 2026 = twenty twenty-six
+Decades: the 1980s = the nineteen eighties
+
+## Telling the time
+| Time | Way 1 | Way 2 (digital) |
+| 7:00 | seven o'clock | seven |
+| 7:05 | five past seven | seven oh five |
+| 7:15 | (a) quarter past seven | seven fifteen |
+| 7:30 | half past seven | seven thirty |
+| 7:40 | twenty to eight | seven forty |
+| 7:45 | (a) quarter to eight | seven forty-five |
+| 12:00 | noon / midday / midnight | twelve |
+- **a.m.** = in the morning (after midnight, before noon). **p.m.** = after noon.
+- "What time is it?" / "What's the time?" – "It's half past six."
+- "What time does the train leave?" – "At 8:20."
+! It's 6 o'clock p.m. => It's 6 p.m. / It's 6 o'clock in the evening.
+
+## Money
+- £5.50 = five pounds fifty
+- $12.99 = twelve dollars ninety-nine (cents)
+- ₹450 = four hundred and fifty rupees
+- €2.75 = two euros seventy-five
+- "How much is it?" / "How much does it cost?" – "It's 300 rupees."
+- "That's expensive!" / "That's a good price." / "Can you give me a discount?"
+
+## Maths in English
+| Symbol | Say |
+| 2 + 3 = 5 | two plus three equals (is) five |
+| 7 – 4 = 3 | seven minus four equals three |
+| 3 × 4 = 12 | three times four / three multiplied by four is twelve |
+| 10 ÷ 2 = 5 | ten divided by two is five |
+| 50% | fifty percent |
+| 0.5 | (zero) point five |
+| ½ ¼ ¾ | a half, a quarter, three quarters |
+| ⅓ | a third |
+
+## Days, months and seasons
+- **Days**: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday (weekend = Saturday and Sunday)
+- **Months**: January, February, March, April, May, June, July, August, September, October, November, December
+- **Seasons**: spring, summer, autumn (UK) / fall (US), winter; also the monsoon / rainy season
+- **Time words**: second, minute, hour, day, week, fortnight (two weeks), month, year, decade (10 years), century (100 years)
+- the day before yesterday – yesterday – today – tomorrow – the day after tomorrow
+EX: Write in words
+1. 15 || fifteen
+2. 50 || fifty
+3. 342 || three hundred and forty-two
+4. 3rd || third
+5. 12th || twelfth
+6. 7:45 || (a) quarter to eight / seven forty-five
+7. 9:30 || half past nine / nine thirty
+8. 2026 (year) || twenty twenty-six
+9. 1,500 || one thousand five hundred / fifteen hundred
+10. 21st || twenty-first

@@ -1,0 +1,404 @@
+# At a Restaurant or Café
+
+## Useful phrases
+| Customer | Waiter / Staff |
+| A table for two, please. | Do you have a reservation? |
+| I've booked a table for 8 o'clock under the name Patel. | Right this way, please. |
+| Could we see the menu, please? | Here's the menu. |
+| What do you recommend? | Are you ready to order? |
+| What's in this dish? / Is it spicy? | What would you like to drink? |
+| I'd like the vegetable biryani, please. | Anything else? |
+| I'll have the same. | Would you like a starter / dessert? |
+| Can I have it without onions, please? | How would you like your steak? (rare / medium / well done) |
+| Could we have some more water, please? | Is everything OK with your meal? |
+| Excuse me, I ordered the chicken, not the fish. | I'm so sorry. I'll change it right away. |
+| Could we have the bill, please? (UK) / Check, please. (US) | Would you like to pay together or separately? |
+| Can I pay by card? | Here's your receipt. |
+| Is service included? | Thank you. Have a nice evening! |
+| Keep the change. | |
+
+## Dialogue 1: Ordering dinner
+Waiter: Good evening. Do you have a reservation?
+Customer: Yes, a table for two under the name Sharma.
+Waiter: Ah yes, Mr Sharma. Follow me, please. Here's your table. Here are the menus.
+Customer: Thank you.
+Waiter: Can I get you something to drink?
+Customer: Could we have a bottle of water and two mango lassis, please?
+Waiter: Of course. Are you ready to order, or do you need a few minutes?
+Customer: We need a few more minutes, please.
+Waiter: No problem.
+(Five minutes later)
+Waiter: Are you ready to order now?
+Customer: Yes. What do you recommend?
+Waiter: The paneer tikka is very popular. And our fish curry is excellent.
+Customer: Is the fish curry very spicy?
+Waiter: It's medium spicy. We can make it mild if you like.
+Customer: Great. I'll have the fish curry, mild, with rice. And my wife would like the paneer tikka with two naans.
+Waiter: Anything else?
+Customer: No, that's all for now, thank you.
+(After the meal)
+Customer: Excuse me, could we have the bill, please?
+Waiter: Certainly. Here you are.
+Customer: Can I pay by card?
+Waiter: Yes, of course.
+Customer: Thank you. Everything was delicious.
+
+## Dialogue 2: At a café
+Barista: Hi! What can I get you?
+Customer: Can I have a cappuccino, please?
+Barista: Sure. What size – small, medium or large?
+Customer: Medium, please.
+Barista: Would you like anything to eat?
+Customer: Yes, one of those chocolate muffins, please.
+Barista: For here or to take away?
+Customer: To take away, please.
+Barista: That's 320 rupees, please.
+Customer: Here you are.
+Barista: Thanks. Your coffee will be ready in a minute.
+EX: Restaurant language
+1. Who says "Are you ready to order?" – the waiter or the customer? || the waiter
+2. How do you ask for the price list of food? || Could we see the menu, please?
+3. How do you ask to pay? || Could we have the bill, please?
+4. "For here or to take away?" means... || Will you eat here or take the food with you?
+
+# Shopping
+
+## Dialogue 3: Buying clothes
+Assistant: Hello. Can I help you?
+Customer: Yes, please. I'm looking for a shirt for work.
+Assistant: What size are you?
+Customer: Medium, I think.
+Assistant: These ones are very popular. They're 100% cotton.
+Customer: Do you have this one in blue?
+Assistant: Let me check... Yes, here you are.
+Customer: Can I try it on?
+Assistant: Of course. The changing rooms are over there.
+(A few minutes later)
+Customer: It's a bit tight. Do you have a bigger size?
+Assistant: Here's a large.
+Customer: This fits perfectly. How much is it?
+Assistant: It's 1,200 rupees, but there's 20% off today, so it's 960.
+Customer: Great, I'll take it.
+Assistant: How would you like to pay?
+Customer: By card, please.
+Assistant: Could you enter your PIN? ... Thank you. Here's your receipt.
+Customer: Can I return it if there's a problem?
+Assistant: Yes, within 14 days with the receipt.
+Customer: Perfect. Thank you!
+
+## Dialogue 4: Returning something
+Customer: Excuse me. I bought these headphones yesterday, but the left side doesn't work.
+Assistant: Oh, I'm sorry about that. Do you have the receipt?
+Customer: Yes, here it is.
+Assistant: Would you like to exchange them or get a refund?
+Customer: I'd like to exchange them for a new pair, please.
+Assistant: No problem. Here you are. Let's test them first... Is that OK?
+Customer: Yes, they work perfectly now. Thanks for your help.
+
+## Dialogue 5: At the market (bargaining)
+Customer: How much are the mangoes?
+Seller: 200 rupees a kilo.
+Customer: That's a bit expensive. Can you do 150?
+Seller: 180. They're very fresh – they came this morning.
+Customer: OK, 180. Can I have two kilos, please?
+Seller: Sure. Anything else?
+Customer: Half a kilo of tomatoes, please.
+Seller: That's 400 in total.
+Customer: Here's 500.
+Seller: And here's your change, 100. Thank you!
+
+# On the Phone
+
+## Phone phrases
+| Situation | Phrases |
+| Answering | Hello? / Hello, this is Priya speaking. / Good morning, ABC Company. How can I help you? |
+| Saying who you are | Hi, it's Ravi. / This is Ravi from XYZ. (not "I am Ravi") |
+| Asking for someone | Can I speak to Mr Khan, please? / Is Anita there? / Could you put me through to the sales department? |
+| Asking who is calling | Who's calling, please? / May I ask who's calling? |
+| Asking to wait | Hold on a moment, please. / Just a second. / Please hold. |
+| Person not available | I'm afraid he's not available right now. / She's in a meeting. / He's out of the office. |
+| Taking a message | Can I take a message? / Would you like to leave a message? |
+| Leaving a message | Could you ask him to call me back? / Please tell her that Ravi called. |
+| Checking information | Could you spell that, please? / Could you repeat the number? / Let me read that back to you. |
+| Problems | Sorry, the line is bad. / You're breaking up. / I can't hear you very well. / Could you speak up a bit? |
+| Ending | Thanks for calling. / I'll call you back later. / Talk to you soon. Bye! |
+
+## Dialogue 6: A business call
+Receptionist: Good morning, Green Tech Solutions. How can I help you?
+Caller: Good morning. Could I speak to Mr Fernandes, please?
+Receptionist: May I ask who's calling?
+Caller: This is Neha Kapoor from Star Electronics.
+Receptionist: Thank you, Ms Kapoor. Please hold... I'm sorry, Mr Fernandes is in a meeting right now. Can I take a message?
+Caller: Yes, please. Could you ask him to call me back this afternoon? It's about our order.
+Receptionist: Of course. Could I have your number, please?
+Caller: It's 98450 12367.
+Receptionist: Let me repeat that: 98450 12367. Is that right?
+Caller: Yes, that's right.
+Receptionist: I'll give him the message.
+Caller: Thank you very much. Goodbye.
+Receptionist: Goodbye, and thank you for calling.
+
+## Dialogue 7: Making an appointment
+Receptionist: Good afternoon, City Dental Clinic.
+Caller: Hello. I'd like to make an appointment with the dentist, please.
+Receptionist: Have you been here before?
+Caller: No, this is my first time.
+Receptionist: OK. What's the problem?
+Caller: I have a toothache. It started two days ago.
+Receptionist: I see. We have an appointment tomorrow at 10:30 or on Thursday at 4. Which is better for you?
+Caller: Tomorrow at 10:30, please.
+Receptionist: Can I have your name, please?
+Caller: Amit Verma. That's V-E-R-M-A.
+Receptionist: Thank you, Mr Verma. So that's tomorrow, 10:30, with Dr Iyer. Please come 10 minutes early.
+Caller: Great. Thanks a lot.
+> **Tip:** Phone numbers: say each number separately. "0" can be "oh" or "zero". "44" = "double four". "999" = "nine nine nine" or "triple nine".
+
+# At the Doctor and Pharmacy
+
+## Dialogue 8: At the doctor's
+Doctor: Good morning. Please sit down. What seems to be the problem?
+Patient: Good morning, doctor. I've had a bad cough and a sore throat for four days.
+Doctor: Do you have a fever?
+Patient: Yes, last night it was 38.5.
+Doctor: Any other symptoms? Headache? Body pain?
+Patient: Yes, my whole body aches, and I feel very tired.
+Doctor: Let me check your throat. Open your mouth and say "ah"... Your throat is very red. Now, take a deep breath... and again.
+Patient: Is it serious?
+Doctor: No, don't worry. It's a throat infection. I'll give you some antibiotics. Are you allergic to any medicine?
+Patient: No, I'm not.
+Doctor: Take one tablet twice a day after meals, for five days. And drink lots of warm water. Get plenty of rest.
+Patient: Can I go to work?
+Doctor: I'd stay at home for two or three days. If you don't feel better in three days, come back and see me.
+Patient: Thank you, doctor.
+
+## Dialogue 9: At the pharmacy
+Pharmacist: Hello. How can I help?
+Customer: Hi. I have this prescription from my doctor.
+Pharmacist: Let me see... OK. This will take five minutes.
+Customer: Also, do you have something for a headache?
+Pharmacist: Yes, these painkillers are good. Take one or two every six hours. Not more than eight in one day.
+Customer: Can I take them with the antibiotics?
+Pharmacist: Yes, that's fine.
+Customer: Thank you. How much is that altogether?
+Pharmacist: 450 rupees, please.
+
+# Travel and Directions
+
+## Dialogue 10: At the airport check-in
+Agent: Good morning. Where are you flying to today?
+Passenger: To Dubai.
+Agent: Can I see your passport and ticket, please?
+Passenger: Here you are.
+Agent: Thank you. How many bags are you checking in?
+Passenger: Just one suitcase.
+Agent: Please put it on the scale... 22 kilos. That's fine. Did you pack the bag yourself?
+Passenger: Yes, I did.
+Agent: Would you like a window or an aisle seat?
+Passenger: A window seat, please.
+Agent: OK. Here's your boarding pass. You're in seat 24A. Boarding is at gate 15 at 10:20. The flight leaves at 10:50.
+Passenger: Is the flight on time?
+Agent: Yes, it is. Have a nice flight!
+
+## Dialogue 11: At the hotel
+Receptionist: Good evening. Welcome to the Grand Hotel. How can I help you?
+Guest: Hi. I have a reservation. My name is Joseph Thomas.
+Receptionist: Let me check... Yes, Mr Thomas. A double room for three nights. Could I see your ID, please?
+Guest: Sure. Here's my passport.
+Receptionist: Thank you. Your room is 512, on the fifth floor. Here's your key card. Breakfast is from 7 to 10 in the restaurant on the ground floor.
+Guest: Is there Wi-Fi?
+Receptionist: Yes, it's free. The password is on your key card holder.
+Guest: Great. What time is check-out?
+Receptionist: Check-out is at 12 noon.
+Guest: Could I have a wake-up call at 6:30 tomorrow?
+Receptionist: Of course. Do you need help with your bags?
+Guest: No, thanks. I can manage.
+Receptionist: Enjoy your stay!
+
+## Dialogue 12: Asking for directions
+Tourist: Excuse me. Could you help me? I'm looking for the National Museum.
+Local: Sure. It's not far. Go straight along this road for about 200 metres.
+Tourist: OK.
+Local: Then turn left at the traffic lights. Go past the bank and the museum is on your right, opposite the park.
+Tourist: So, straight on, left at the traffic lights, past the bank, and it's on the right?
+Local: Exactly.
+Tourist: How long does it take to walk?
+Local: About ten minutes.
+Tourist: Thank you so much!
+Local: You're welcome. Enjoy the museum!
+
+## Dialogue 13: Taking a taxi
+Passenger: Hello. Can you take me to the central railway station, please?
+Driver: Sure. Get in.
+Passenger: How long will it take?
+Driver: About 25 minutes, if the traffic is OK.
+Passenger: I need to catch a train at 5:30. Will we be on time?
+Driver: Don't worry, we'll be there by 5.
+(Later)
+Passenger: How much is it?
+Driver: 380 rupees.
+Passenger: Here's 400. Keep the change.
+Driver: Thank you! Have a good journey.
+
+# At Work and in the Office
+
+## Useful office phrases
+| Situation | Phrases |
+| Starting a meeting | Shall we get started? / Let's begin. / Thanks for coming. / The purpose of this meeting is... |
+| Giving your opinion | I think we should... / In my view... / From my point of view... |
+| Interrupting politely | Sorry to interrupt, but... / Can I add something? / Could I just say something? |
+| Asking for clarification | Could you explain that in more detail? / What do you mean by...? |
+| Agreeing / disagreeing | I agree with Ravi. / I'm not sure that's the best idea. |
+| Making suggestions | Why don't we...? / I suggest that we... / How about...? |
+| Ending a meeting | Let's sum up. / To summarise... / Any other questions? / Thanks, everyone. |
+| Asking for help | Could you give me a hand with this? / Do you have a minute? |
+| Deadlines | When is the deadline? / I'll have it ready by Friday. / I need a bit more time. |
+| Problems | We have a problem with... / The system is down. / I'm running late. |
+| Updates | Just to update you... / The project is on track. / We're behind schedule. |
+
+## Dialogue 14: Asking a colleague for help
+Ali: Hi Meena, do you have a minute?
+Meena: Sure. What's up?
+Ali: I'm working on the sales report, but I can't figure out how to make a chart in Excel.
+Meena: Oh, it's easy. Select the data first. Then click on "Insert" and choose "Chart".
+Ali: Like this?
+Meena: Yes, exactly. Now pick the type of chart you want.
+Ali: Perfect! Thanks so much. I owe you a coffee.
+Meena: No problem. Anytime!
+
+## Dialogue 15: Talking to your boss
+Employee: Excuse me, Mr Rao. Do you have a moment?
+Boss: Yes, of course. Come in.
+Employee: I wanted to talk to you about the marketing project. I don't think we can finish it by Friday.
+Boss: I see. What's the problem?
+Employee: The client sent new information yesterday, and we need to change a lot of the design.
+Boss: How much more time do you need?
+Employee: I think we need until next Wednesday.
+Boss: OK. I'll talk to the client. But please send me an update every day.
+Employee: Of course. Thank you for understanding.
+
+# Job Interviews
+
+## Common interview questions and model answers
+### 1. "Tell me about yourself."
+"I'm a recent commerce graduate from Delhi University. During my studies, I did a six-month internship at an accounting firm, where I learned to prepare financial reports and work with clients. I'm hardworking, organised, and I enjoy working with numbers. I'm now looking for a full-time position where I can grow my skills."
+### 2. "Why do you want to work here?"
+"I've read a lot about your company, and I really admire your focus on customer service. I believe my skills would be a good fit, and I'd love to learn from your experienced team."
+### 3. "What are your strengths?"
+"I'm a fast learner and very reliable. For example, at my last job, I learned a new software system in one week and then trained my colleagues."
+### 4. "What is your biggest weakness?"
+"I sometimes spend too much time trying to make everything perfect. I'm learning to manage my time better by setting clear deadlines for myself."
+### 5. "Where do you see yourself in five years?"
+"In five years, I hope to be in a senior role, managing a small team, and continuing to develop my skills in this field."
+### 6. "Why did you leave your last job?"
+"I enjoyed my last job, but I was looking for new challenges and more opportunities to grow."
+### 7. "Do you have any questions for us?"
+"Yes. What does a typical day look like in this role?" / "What are the next steps in the process?" / "How do you measure success in this position?"
+## Interview tips
+- Arrive 10–15 minutes early.
+- Smile, make eye contact and shake hands firmly.
+- Listen carefully to each question. If you don't understand, ask: "Could you repeat the question, please?"
+- Give examples from your experience.
+- Don't speak badly about your old company.
+- At the end, say: "Thank you for your time. I look forward to hearing from you."
+- Practise your answers out loud **many times** before the interview.
+EX: Interview language
+1. How do you ask the interviewer to repeat a question? || Could you repeat the question, please?
+2. What do you say at the end of an interview? || Thank you for your time. I look forward to hearing from you.
+3. Complete: "I'm a fast ___ and very reliable." || learner
+4. Is it a good idea to speak badly about your old boss? || No
+
+# More Everyday Dialogues
+
+## Dialogue 16: Meeting a new neighbour
+Sara: Hi! I'm Sara. I've just moved into the flat next door.
+Kumar: Oh, hello! Welcome to the building. I'm Kumar.
+Sara: Nice to meet you, Kumar. Have you lived here long?
+Kumar: About five years. It's a nice, quiet area.
+Sara: That's good to hear. Is there a supermarket near here?
+Kumar: Yes, there's one just round the corner, next to the pharmacy. It's open until 10.
+Sara: Great, thanks. And which bus goes to the city centre?
+Kumar: Number 42. The bus stop is at the end of the street.
+Sara: Thanks so much. You've been very helpful.
+Kumar: No problem. If you need anything, just knock on my door.
+
+## Dialogue 17: Making plans with a friend
+Anil: Hey Priya! Are you free this Saturday?
+Priya: I think so. Why?
+Anil: There's a new comedy film at the cinema. Do you want to see it?
+Priya: Sounds great! What time?
+Anil: There's a show at 6:30. We could have dinner after.
+Priya: Perfect. Where shall we meet?
+Anil: How about at the café opposite the cinema, at 6?
+Priya: OK. See you there!
+Anil: Great. I'll book the tickets online.
+
+## Dialogue 18: Complaining politely
+Guest: Excuse me. I'm in room 305. I'm afraid there's a problem with my room.
+Receptionist: I'm sorry to hear that. What's the problem?
+Guest: The air conditioning isn't working, and it's very hot.
+Receptionist: I apologise for that. I'll send someone to fix it right away.
+Guest: Thank you. Also, there are no towels in the bathroom.
+Receptionist: I'm very sorry. Housekeeping will bring some immediately. If the AC can't be fixed, we'll move you to another room.
+Guest: That would be great. Thank you for your help.
+
+## Dialogue 19: At the bank
+Customer: Good morning. I'd like to open a savings account.
+Bank clerk: Certainly. Do you have your ID and proof of address?
+Customer: Yes, here's my Aadhaar card and an electricity bill.
+Bank clerk: Thank you. Please fill in this form. Do you want a debit card too?
+Customer: Yes, please. How long will it take to get it?
+Bank clerk: About seven working days. It will be sent to your address.
+Customer: Is there a minimum balance?
+Bank clerk: Yes, 5,000 rupees.
+Customer: OK. And can I use online banking?
+Bank clerk: Yes. You'll receive the login details by email.
+
+## Dialogue 20: Talking about the weekend
+Lisa: Hi Raj! How was your weekend?
+Raj: It was great, thanks. I went to my cousin's wedding in Jaipur.
+Lisa: Oh, wow! How was it?
+Raj: Amazing. There was lots of music and dancing, and the food was delicious. We danced until 2 a.m.!
+Lisa: That sounds like so much fun. Did you take any photos?
+Raj: Hundreds! I'll show you later. What about you? What did you do?
+Lisa: Nothing special. I cleaned my flat and watched a few episodes of a new series.
+Raj: Sometimes a relaxing weekend is the best kind!
+Lisa: True!
+> **Tip:** Read each dialogue **out loud** three times. First, read both parts. Then cover one part and try to say it from memory. Finally, change some details (names, places, food) and make your own dialogue.
+
+# Talking About Yourself: 30 Speaking Topics
+
+## How to practise
+For each topic, speak for **one to two minutes**. Record yourself on your phone. Listen back. Notice your mistakes, and try again. Use the question prompts to help you.
+| # | Topic | Questions to answer |
+| 1 | Yourself | Name, age, where you live, job/studies, hobbies |
+| 2 | Your family | How many people? What are they like? What do they do? |
+| 3 | Your home | Where is it? How many rooms? What's your favourite room? |
+| 4 | Your daily routine | What do you do every day, from morning to night? |
+| 5 | Your job or studies | What do you do? What do you like/dislike about it? |
+| 6 | Your best friend | How did you meet? What is he/she like? What do you do together? |
+| 7 | Your hometown | Where is it? What's it famous for? What can visitors do there? |
+| 8 | Food | What's your favourite food? Can you cook? Describe a dish from your country. |
+| 9 | Hobbies | What do you do in your free time? How long have you done it? |
+| 10 | Your last holiday | Where did you go? Who with? What did you do? |
+| 11 | Your childhood | Where did you grow up? What did you use to do? |
+| 12 | A festival | Which festival do you like? How do you celebrate it? |
+| 13 | Weather and seasons | What's the weather like where you live? Favourite season? |
+| 14 | Shopping | Do you like shopping? Where do you shop? Online or in shops? |
+| 15 | Technology | How do you use your phone? Could you live without the internet? |
+| 16 | Health | What do you do to stay healthy? Do you exercise? |
+| 17 | A film or book | What is it about? Why do you like it? |
+| 18 | Music | What music do you like? Favourite singer? |
+| 19 | Your future plans | What are you going to do next year? In five years? |
+| 20 | Your dream job | What is it? Why? |
+| 21 | A person you admire | Who? Why? What did they do? |
+| 22 | A difficult time | What happened? How did you deal with it? |
+| 23 | Your best day ever | When? What happened? Why was it special? |
+| 24 | Transport | How do you travel to work/school? Is traffic a problem? |
+| 25 | Learning English | Why are you learning? What is difficult? How are you improving? |
+| 26 | If you won the lottery | What would you do? |
+| 27 | Social media | Do you use it? Is it good or bad? |
+| 28 | Your country | What do you love about it? What would you change? |
+| 29 | A place you want to visit | Where? Why? What would you do there? |
+| 30 | Advice | What advice would you give to a young person? |
+### Example answer: Topic 25 – Learning English
+"I'm learning English because I want to get a better job. In my city, many companies want employees who can speak English well. When I started, I was very nervous about speaking. I knew some grammar, but I couldn't say anything! Now I practise every day. I read this book, I watch videos on YouTube, and I talk to myself in the mirror. The most difficult thing for me is listening, because native speakers talk so fast. But I'm getting better. My goal is to have a job interview in English next year."

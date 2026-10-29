@@ -1,0 +1,584 @@
+@PART Part 2: Grammar Foundations :: The building blocks of every English sentence
+
+# Parts of Speech: The 8 Word Families
+
+## Why learn parts of speech?
+Every English word belongs to a family. When you know the family, you know **where to put the word** in a sentence. This is the secret of good grammar.
+| Part of speech | What it does | Examples |
+| Noun | names a person, place, thing or idea | teacher, Mumbai, phone, love |
+| Pronoun | takes the place of a noun | I, you, he, she, it, we, they |
+| Verb | shows an action or a state | run, eat, think, is, have |
+| Adjective | describes a noun | big, happy, red, beautiful |
+| Adverb | describes a verb, adjective or another adverb | quickly, very, always, well |
+| Preposition | shows place, time or direction | in, on, at, under, before |
+| Conjunction | joins words or sentences | and, but, or, because, so |
+| Interjection | shows a sudden feeling | Wow! Oh! Ouch! Hey! |
+
+## Look at one sentence
+"**Wow**, my **young** brother **quickly** **ate** **three** **apples** **and** a banana **in** the kitchen."
+| Word | Part of speech |
+| Wow | interjection |
+| my | possessive adjective (determiner) |
+| young | adjective |
+| brother | noun |
+| quickly | adverb |
+| ate | verb |
+| three | number (determiner) |
+| apples | noun |
+| and | conjunction |
+| in | preposition |
+| kitchen | noun |
+
+## Basic English word order: S + V + O
+English has a **fixed word order**. This is very important. The basic order is:
+**Subject + Verb + Object** (+ Place + Time)
+| Subject (who?) | Verb (action) | Object (what?) | Place (where?) | Time (when?) |
+| I | eat | rice | at home | every day. |
+| She | watched | a film | at the cinema | yesterday. |
+| We | will visit | our grandparents | in Pune | next week. |
+| They | play | football | in the park | on Sundays. |
+! I rice eat. => I eat rice.
+! Yesterday a film she watched. => She watched a film yesterday. (or: Yesterday, she watched a film.)
+> **Tip:** Remember "**S-V-O-P-T**": Subject, Verb, Object, Place, Time. Place usually comes before time.
+
+## Every sentence needs a subject and a verb
+In some languages, you can drop the subject. In English, you almost always need it.
+! Is raining. => **It** is raining.
+! Is very hot today. => **It** is very hot today.
+! Am happy. => **I** am happy.
+! My brother very tall. => My brother **is** very tall.
+
+## One word, many families
+The same root can change its family by adding an ending (suffix):
+| Noun | Verb | Adjective | Adverb |
+| happiness | – | happy | happily |
+| beauty | beautify | beautiful | beautifully |
+| success | succeed | successful | successfully |
+| decision | decide | decisive | decisively |
+| care | care | careful | carefully |
+| danger | endanger | dangerous | dangerously |
+| education | educate | educational | educationally |
+| strength | strengthen | strong | strongly |
+| speed | speed | quick / fast | quickly / fast |
+| difference | differ | different | differently |
+### Common endings help you guess the family
+| Ending | Usually a... | Examples |
+| -tion, -sion, -ment, -ness, -ity, -er, -or | noun | information, decision, payment, kindness, city, teacher, actor |
+| -ful, -less, -ous, -ive, -able, -al, -ic, -y | adjective | helpful, useless, famous, active, comfortable, national, basic, sunny |
+| -ly | adverb (usually) | slowly, really, happily |
+| -ize, -ise, -en, -fy, -ate | verb | organize, widen, simplify, create |
+EX: Name the part of speech of the word in bold
+1. She is a **doctor**. || noun
+2. They **run** every morning. || verb
+3. It is a **beautiful** day. || adjective
+4. He speaks **slowly**. || adverb
+5. The cat is **under** the table. || preposition
+6. I like tea **but** I don't like coffee. || conjunction
+7. **She** is my sister. || pronoun
+8. **Ouch!** That hurts. || interjection
+9. This test is **very** easy. || adverb
+10. We need more **information**. || noun
+EX: Put the words in the correct order
+1. football / play / on Sundays / we || We play football on Sundays.
+2. my mother / tea / drinks / every morning || My mother drinks tea every morning.
+3. a new phone / bought / he / yesterday || He bought a new phone yesterday.
+4. at school / English / they / study || They study English at school.
+5. is / it / cold / today || It is cold today.
+
+# Nouns: Singular, Plural, Countable, Uncountable
+
+## What is a noun?
+A noun is a name. It can be a person (**girl, doctor, Amit**), a place (**school, London, park**), a thing (**book, car, water**), an animal (**dog, bird**) or an idea (**love, freedom, time**).
+### Common and proper nouns
+- **Common nouns** are general names: city, river, boy, month. Write them with a small letter.
+- **Proper nouns** are special names: Delhi, the Ganges, Rahul, January. Always start them with a **capital letter**.
+! I live in mumbai. => I live in **M**umbai.
+! My birthday is in july. => My birthday is in **J**uly.
+> **Tip:** In English we use capital letters for days (Monday), months (March), languages (English, Hindi), nationalities (Indian, French) and the word "I".
+
+## Making plurals
+### The normal rule: add -s
+book → books, car → cars, friend → friends, apple → apples
+### Add -es after s, ss, sh, ch, x, z (and some words ending in o)
+| Singular | Plural |
+| bus | buses |
+| class | classes |
+| dish | dishes |
+| watch | watches |
+| box | boxes |
+| tomato | tomatoes |
+| potato | potatoes |
+| hero | heroes |
+But: photo → photos, piano → pianos, radio → radios, video → videos.
+### Consonant + y → -ies
+baby → babies, city → cities, country → countries, party → parties, story → stories
+But vowel + y → just add -s: boy → boys, day → days, key → keys, toy → toys
+### -f / -fe → -ves
+leaf → leaves, knife → knives, wife → wives, life → lives, half → halves, wolf → wolves, shelf → shelves
+But: roof → roofs, chef → chefs, belief → beliefs
+### Irregular plurals – learn these by heart!
+| Singular | Plural |
+| man | men |
+| woman | women |
+| child | children |
+| person | people |
+| foot | feet |
+| tooth | teeth |
+| mouse | mice |
+| goose | geese |
+| ox | oxen |
+### Same in singular and plural
+sheep → sheep, fish → fish, deer → deer, series → series, species → species
+### Always plural
+trousers, jeans, shorts, glasses (for eyes), scissors, clothes, police
+- My jeans **are** blue. (not "is")
+- The police **are** here.
+- I need **a pair of** scissors.
+
+## Countable and uncountable nouns
+This is one of the most important topics in English grammar.
+**Countable nouns** can be counted: one apple, two apples, three apples. They have a singular and plural form.
+**Uncountable nouns** cannot be counted with numbers. They have **no plural**. We cannot use "a/an" with them.
+| Countable | Uncountable |
+| a chair, two chairs | furniture |
+| a suitcase, bags | luggage / baggage |
+| a coin, a note | money |
+| a job | work |
+| a suggestion, a tip | advice |
+| a fact, a news story | information, news |
+| a word | vocabulary |
+| a song | music |
+| a loaf, a slice | bread |
+| a meal | food |
+| a car | traffic |
+| a trip, a journey | travel |
+### More uncountable nouns
+- **Liquids**: water, milk, juice, tea, coffee, oil
+- **Materials**: wood, paper, glass, plastic, gold
+- **Food**: rice, sugar, salt, bread, cheese, butter, meat
+- **Ideas**: love, happiness, time, help, knowledge, patience, fun
+- **Other**: homework, equipment, research, weather, hair, electricity
+! I need an advice. => I need **some advice**. / I need **a piece of** advice.
+! She gave me many informations. => She gave me **a lot of information**.
+! The news are bad. => The news **is** bad.
+! I have a lot of homeworks. => I have a lot of **homework**.
+! We bought new furnitures. => We bought new **furniture**.
+! His hairs are long. => His **hair is** long.
+### How to "count" uncountable nouns
+Use a container or unit word:
+| Unit | Examples |
+| a glass of | water, milk, juice |
+| a cup of | tea, coffee |
+| a bottle of | water, oil, wine |
+| a piece of | advice, information, paper, cake, furniture |
+| a slice of | bread, pizza, cheese |
+| a loaf of | bread |
+| a kilo of | rice, sugar, meat |
+| a bowl of | rice, soup |
+| a packet of | biscuits, crisps |
+| a bar of | chocolate, soap |
+| a spoonful of | sugar, salt |
+| a drop of | water, rain |
+
+## Possessive nouns ('s)
+Use **'s** to show that something belongs to someone.
+- Riya's bag (the bag of Riya)
+- my father's car
+- the teacher's desk
+For plural nouns ending in -s, add only an apostrophe ('):
+- my parents' house (two parents)
+- the students' books
+For irregular plurals, add 's: the children's toys, the women's room, people's opinions.
+! The car of my father is new. => My father's car is new.
+> **Tip:** Use 's mainly for people and animals. For things, we often use "of": the end **of** the film, the top **of** the page, the name **of** the street.
+EX: Write the plural
+1. book || books
+2. box || boxes
+3. city || cities
+4. child || children
+5. knife || knives
+6. tooth || teeth
+7. boy || boys
+8. woman || women
+9. potato || potatoes
+10. sheep || sheep
+11. person || people
+12. watch || watches
+EX: Countable (C) or uncountable (U)?
+1. chair || C
+2. water || U
+3. advice || U
+4. egg || C
+5. luggage || U
+6. information || U
+7. friend || C
+8. music || U
+9. idea || C
+10. homework || U
+EX: Correct the mistake
+1. I have many homeworks. || I have a lot of homework.
+2. Can you give me an advice? || Can you give me some advice / a piece of advice?
+3. The news are very good. || The news is very good.
+4. This is the house of my uncle. || This is my uncle's house.
+5. The childrens are playing. || The children are playing.
+
+# Articles: A, An and The
+
+## What are articles?
+Articles are small words that come before nouns. English has three: **a**, **an** and **the**. Many languages do not have articles, so learners often forget them. Practise them carefully – they appear in almost every sentence!
+
+## A and An (the indefinite article)
+Use **a** or **an** with a **singular countable noun** when:
+- you talk about it for the **first time**: "I saw **a** dog in the street."
+- it is **one of many** / not a specific one: "Can I borrow **a** pen?"
+- you say someone's **job**: "She is **a** nurse." "He is **an** engineer."
+- you describe something: "It's **a** beautiful day."
+### A or an?
+The rule is about the **sound**, not the letter.
+- **a** + consonant **sound**: a book, a car, **a university** (you-ni...), **a European** country, **a one**-way street
+- **an** + vowel **sound**: an apple, an egg, an idea, an orange, an umbrella, **an hour** (h is silent), **an honest** man, **an MBA** (em-bee-ay)
+! She is engineer. => She is **an** engineer.
+! I have a umbrella. => I have **an** umbrella.
+! He is an university student. => He is **a** university student.
+
+## The (the definite article)
+Use **the** when the listener knows **which one** you mean.
+- When you mention something **again**: "I saw a dog. **The** dog was very big."
+- When there is **only one**: **the** sun, **the** moon, **the** world, **the** sky, **the** Internet
+- When it is clear from the situation: "Close **the** door, please." (the door of this room)
+- With superlatives: **the** best, **the** tallest, **the** most important
+- With ordinal numbers: **the** first, **the** second, **the** last
+- With some places: **the** cinema, **the** theatre, **the** bank, **the** post office, **the** station
+- With musical instruments: play **the** guitar, play **the** piano
+- With rivers, seas, oceans, mountain ranges: **the** Ganges, **the** Pacific Ocean, **the** Himalayas
+- With some countries: **the** USA, **the** UK, **the** Netherlands, **the** Philippines
+- With plural family names: **the** Sharmas (the Sharma family)
+
+## No article (zero article)
+Do **not** use an article:
+- With plural or uncountable nouns used in a general sense: "**Dogs** are friendly." "I love **music**." "**Water** is important."
+- With names of people, most cities and countries: **Priya**, **Paris**, **India**, **Japan**
+- With meals: have **breakfast**, have **lunch**, have **dinner**
+- With languages and school subjects: I speak **English**. I study **maths**.
+- With sports: play **cricket**, play **football**
+- With days, months, years: on **Monday**, in **June**, in **2026**
+- In some fixed phrases: go to **school**, go to **work**, go to **bed**, go **home**, at **night**, by **bus**, by **car**, in **hospital** (UK)
+! I love the music. (meaning music in general) => I love music.
+! The life is beautiful. => Life is beautiful.
+! I go to the home at 6. => I go home at 6.
+! She plays guitar very well. (US accepts this, but standard is) => She plays **the** guitar very well.
+! I had a lunch with my friend. => I had lunch with my friend.
+
+## General or specific?
+Compare:
+| General (no article) | Specific (the) |
+| I like **coffee**. | **The coffee** in this café is excellent. |
+| **Children** need love. | **The children** in my class are noisy. |
+| **Money** isn't everything. | Where is **the money** I gave you? |
+| **Books** are expensive. | **The books** on the table are mine. |
+
+## School, hospital, prison, church
+- "He goes to **school**." = he is a student (the normal purpose).
+- "His mother went to **the school** to talk to the teacher." = she visited the building.
+- "She is in **hospital**." (UK) = she is a patient.
+- "I went to **the hospital** to visit her." = visiting the building.
+
+## Article summary table
+| Situation | Article | Example |
+| First mention, singular | a / an | I bought **a** shirt. |
+| Second mention | the | **The** shirt is blue. |
+| Only one exists | the | **The** moon is bright. |
+| Jobs | a / an | He's **a** pilot. |
+| General plural | – | **Cats** like milk. |
+| General uncountable | – | **Sugar** is sweet. |
+| Names, cities, countries | – | **Ravi** lives in **Chennai**. |
+| Superlatives | the | the best day |
+| Meals, sports, languages | – | have **dinner**, play **tennis**, learn **French** |
+EX: Write a, an, the or – (no article)
+1. I saw ___ elephant at the zoo. || an
+2. She is ___ teacher. || a
+3. ___ sun is very hot today. || The
+4. I love ___ chocolate. || – (no article)
+5. He is ___ honest man. || an
+6. Can you close ___ window, please? || the
+7. We had ___ dinner at 8 o'clock. || – (no article)
+8. She is ___ best student in the class. || the
+9. I need ___ umbrella. It's raining. || an
+10. My brother plays ___ piano. || the
+11. They live in ___ India. || – (no article)
+12. It takes ___ hour to get there. || an
+13. ___ Himalayas are very high mountains. || The
+14. I bought a book and a pen. ___ book was expensive. || The
+15. He studies at ___ university in Delhi. || a
+
+# Pronouns and Possessives
+
+## Subject and object pronouns
+Pronouns take the place of nouns, so we do not repeat words.
+"Ali is my friend. **Ali** lives near me." → "Ali is my friend. **He** lives near me."
+| Subject pronoun | Object pronoun | Possessive adjective | Possessive pronoun | Reflexive pronoun |
+| I | me | my | mine | myself |
+| you | you | your | yours | yourself / yourselves |
+| he | him | his | his | himself |
+| she | her | her | hers | herself |
+| it | it | its | – | itself |
+| we | us | our | ours | ourselves |
+| they | them | their | theirs | themselves |
+
+## Subject pronouns
+Use them **before** the verb – they do the action.
+- **I** like tea.
+- **She** works in a bank.
+- **They** are my cousins.
+- **It** is raining. (We use "it" for weather, time and distance: "It's 5 o'clock." "It's 10 km to the city.")
+
+## Object pronouns
+Use them **after** the verb or **after a preposition** – they receive the action.
+- Call **me** tomorrow.
+- I love **her**.
+- Can you help **us**?
+- This gift is for **you**.
+- Come with **them**.
+! Me and my friend went shopping. => My friend and **I** went shopping.
+! She gave the book to I. => She gave the book to **me**.
+! Between you and I... => Between you and **me**...
+
+## Possessive adjectives and pronouns
+**Possessive adjectives** come **before a noun**: my book, your car, her phone, our house, their dog.
+**Possessive pronouns** stand **alone** (no noun after them): The book is **mine**. Is this pen **yours**? The red car is **hers**.
+- This is **my** bag. → This bag is **mine**.
+- That is **their** house. → That house is **theirs**.
+! This is mine bag. => This is **my** bag.
+! The phone is her. => The phone is **hers**.
+### Its or it's?
+- **its** = possessive: "The dog wagged **its** tail."
+- **it's** = it is / it has: "**It's** cold today." "**It's** been a long day."
+### Your or you're?
+- **your** = possessive: "Is this **your** pen?"
+- **you're** = you are: "**You're** very kind."
+### Their, there or they're?
+- **their** = possessive: "**Their** house is big."
+- **there** = place / there is: "Put it **there**." "**There** is a problem."
+- **they're** = they are: "**They're** coming at 6."
+
+## Reflexive pronouns
+Use them when the subject and the object are the **same person**:
+- I cut **myself** while cooking.
+- She taught **herself** to play the guitar.
+- Enjoy **yourselves** at the party!
+- He looked at **himself** in the mirror.
+Also for emphasis: "I made this cake **myself**." (nobody helped me)
+"**by myself**" = alone: "I live **by myself**."
+! He hurt hisself. => He hurt **himself**.
+! They enjoyed theirselves. => They enjoyed **themselves**.
+
+## Demonstratives: this, that, these, those
+| | Near (here) | Far (there) |
+| Singular | this book | that book |
+| Plural | these books | those books |
+- **This** is my brother. (he is next to me)
+- Look at **that** bird! (it is far away)
+- **These** shoes are comfortable.
+- Who are **those** people?
+On the phone: "Hello, **this is** Sara." (not "I am Sara")
+
+## Indefinite pronouns
+| | Person | Thing | Place |
+| some- | someone / somebody | something | somewhere |
+| any- | anyone / anybody | anything | anywhere |
+| no- | no one / nobody | nothing | nowhere |
+| every- | everyone / everybody | everything | everywhere |
+- **Someone** is at the door.
+- Is there **anything** to eat?
+- **Nobody** knows the answer.
+- **Everyone** is happy. (singular verb: "is", not "are")
+- I can't find my keys **anywhere**.
+! Nobody don't know. => Nobody knows. (only one negative)
+! Everybody are here. => Everybody **is** here.
+
+## Who, whose
+- **Who** is that man? (person)
+- **Whose** bag is this? (who is the owner?) – "It's Maria's." / "It's mine."
+! Who's bag is this? => **Whose** bag is this?
+EX: Choose the correct pronoun
+1. (I / Me) am a student. || I
+2. Please help (we / us). || us
+3. This is (my / mine) phone. || my
+4. The blue car is (our / ours). || ours
+5. She hurt (herself / himself). || herself
+6. (Their / There / They're) going to the cinema. || They're
+7. The cat is cleaning (its / it's) paws. || its
+8. Give the keys to (him / he). || him
+9. (Whose / Who's) jacket is this? || Whose
+10. Look at (that / those) stars! || those
+11. My brother and (I / me) went to the market. || I
+12. Is this umbrella (your / yours)? || yours
+13. (Everybody / Nobody) is here, so we can start. || Everybody
+14. They built the house (themselves / theirselves). || themselves
+15. (Your / You're) my best friend. || You're
+
+# The Verb "To Be"
+
+## Why "be" is so important
+"Be" is the most common verb in English. We use it to say who we are, what we are like, where we are, our age, our feelings and much more. It is also used to make other tenses (I am working, it was made).
+
+## Present: am, is, are
+| Positive | Short form | Negative | Short form |
+| I am | I'm | I am not | I'm not |
+| You are | You're | You are not | You aren't / You're not |
+| He is | He's | He is not | He isn't / He's not |
+| She is | She's | She is not | She isn't / She's not |
+| It is | It's | It is not | It isn't / It's not |
+| We are | We're | We are not | We aren't / We're not |
+| They are | They're | They are not | They aren't / They're not |
+> **Tip:** In speaking, we almost always use short forms: "I'm tired." "She's at home." "They aren't here." This sounds natural.
+
+## Questions with be
+Change the order: **Be + subject + ...?**
+| Question | Short answer: yes | Short answer: no |
+| Am I late? | Yes, you are. | No, you aren't. |
+| Are you a student? | Yes, I am. | No, I'm not. |
+| Is he your brother? | Yes, he is. | No, he isn't. |
+| Is it cold? | Yes, it is. | No, it isn't. |
+| Are they at home? | Yes, they are. | No, they aren't. |
+! Yes, I'm. => Yes, I **am**. (no short form in positive short answers)
+### Wh- questions with be
+- **Where** are you from? – I'm from Kerala.
+- **What** is your name? – My name is Anjali.
+- **How** are you? – I'm fine, thanks.
+- **How old** is your son? – He's seven.
+- **Who** is that woman? – She's my aunt.
+- **Why** are you sad? – Because I lost my phone.
+- **When** is your birthday? – It's on 5th May.
+
+## Uses of "be"
+| Use | Example |
+| Name | I'm Karan. |
+| Job | She's a dentist. |
+| Nationality / origin | We're Indian. They're from Brazil. |
+| Age | I'm 25 (years old). |
+| Feelings | He's hungry. I'm nervous. |
+| Description | The house is big. You're tall. |
+| Place | The keys are on the table. |
+| Time / weather | It's 3 o'clock. It's sunny. |
+| Price | It's 200 rupees. How much are these shoes? |
+! I have 25 years. => I **am** 25 years old.
+! I have hungry. => I **am** hungry.
+! She is agree with me. => She agrees with me.
+! I am understand. => I understand.
+
+## Past: was and were
+| Positive | Negative | Question |
+| I was | I wasn't | Was I...? |
+| You were | You weren't | Were you...? |
+| He / She / It was | He / She / It wasn't | Was he / she / it...? |
+| We were | We weren't | Were we...? |
+| They were | They weren't | Were they...? |
+- I **was** at home yesterday.
+- They **were** very tired after the trip.
+- It **wasn't** expensive.
+- **Were** you at the party? – Yes, I **was**. / No, I **wasn't**.
+- Where **were** you last night?
+! They was late. => They **were** late.
+
+## There is / There are
+Use **there is / there are** to say that something **exists** or is in a place.
+| | Singular / uncountable | Plural |
+| Positive | There is (There's) a bank near here. | There are three banks in this street. |
+| Negative | There isn't any milk. | There aren't any chairs. |
+| Question | Is there a hospital? | Are there any shops? |
+| Past | There was a storm. | There were many people. |
+| Future | There will be a meeting. | There will be problems. |
+! In my city have many parks. => In my city **there are** many parks.
+! Have a problem with my computer. => **There is** a problem with my computer.
+! There is many cars. => There **are** many cars.
+EX: Complete with am, is or are
+1. I ___ hungry. || am
+2. She ___ a doctor. || is
+3. They ___ my friends. || are
+4. It ___ very hot today. || is
+5. We ___ from Nepal. || are
+6. ___ you ready? || Are
+7. My parents ___ at work. || are
+8. The book ___ on the table. || is
+EX: Complete with was or were
+1. I ___ tired yesterday. || was
+2. They ___ at the cinema. || were
+3. ___ she at school last week? || Was
+4. We ___ not happy with the hotel. || were
+5. The film ___ very long. || was
+EX: Correct the mistakes
+1. I have 30 years old. || I am 30 years old.
+2. She is agree with you. || She agrees with you.
+3. In my village have a big temple. || In my village there is a big temple.
+4. Yes, I'm. || Yes, I am.
+5. There is two cats in the garden. || There are two cats in the garden.
+
+# Have and Have Got
+
+## Have for possession
+We use **have** to talk about things we own, family, illnesses and features.
+| Positive | Negative | Question |
+| I / You / We / They **have** | I / You / We / They **don't have** | **Do** I / you / we / they **have**...? |
+| He / She / It **has** | He / She / It **doesn't have** | **Does** he / she / it **have**...? |
+- I **have** two brothers.
+- She **has** long hair.
+- We **don't have** a car.
+- **Does** he **have** a job? – Yes, he **does**. / No, he **doesn't**.
+- I **have** a headache.
+! She have a new phone. => She **has** a new phone.
+! He doesn't has time. => He doesn't **have** time.
+! Does she has a sister? => Does she **have** a sister?
+> **Tip:** After "does" and "doesn't", the verb always returns to its base form: does + have, doesn't + have.
+
+## Have got (mostly British English, informal)
+"Have got" means the same as "have" for possession.
+| Positive | Negative | Question |
+| I've got a cat. | I haven't got a cat. | Have you got a cat? |
+| She's got a cold. | She hasn't got a cold. | Has she got a cold? |
+## Past: had
+- I **had** a bicycle when I was a child.
+- **Did** you **have** a good time? – Yes, I **did**.
+- We **didn't have** enough money.
+
+## Have for actions (not possession)
+"Have" is also used in many fixed expressions. Here it is an action, so we can use continuous tenses ("I'm having lunch").
+| Expression | Example |
+| have breakfast / lunch / dinner | We have dinner at 8. |
+| have a shower / bath | I'm having a shower. |
+| have a good time | Have a good time at the party! |
+| have a party | We're having a party on Saturday. |
+| have a rest / a break | Let's have a break. |
+| have a look | Can I have a look? |
+| have a chat / a conversation | We had a long chat. |
+| have a problem / difficulty | I have a problem with my laptop. |
+| have a baby | She had a baby last month. |
+| have fun | We had fun at the beach. |
+| have a try / a go | Let me have a go. |
+| have a meeting | I have a meeting at 10. |
+| have an argument | They had an argument. |
+| have a drink / a coffee | Let's have a coffee. |
+! I am having a car. (possession) => I **have** a car.
+✓ I'm **having** dinner now. (action – correct)
+
+## Have to (obligation)
+"Have to" means it is necessary.
+- I **have to** go to work at 8.
+- She **has to** wear a uniform.
+- We **don't have to** pay. It's free. (= it is not necessary)
+- **Do** you **have to** work on Saturdays?
+- I **had to** wait for an hour. (past)
+(See the chapter on modal verbs for more.)
+EX: Complete with have, has, don't have or doesn't have
+1. My sister ___ three children. || has
+2. I ___ a car, so I go by bus. || don't have
+3. ___ your brother have a job? || Does
+4. They ___ a big house with a garden. || have
+5. He ___ any money. He is poor. || doesn't have
+6. We ___ English classes on Monday and Friday. || have
+EX: Correct the mistakes
+1. She have a beautiful voice. || She has a beautiful voice.
+2. Does he has a car? || Does he have a car?
+3. I am having two sisters. || I have two sisters.
+4. He doesn't has a passport. || He doesn't have a passport.
+5. We had a fun at the party. || We had fun at the party.

@@ -1,0 +1,350 @@
+@PART Part 3: The 12 Tenses :: Past, present and future – made simple
+
+# Understanding Tenses: The Big Picture
+
+## What is a tense?
+A tense tells us **when** an action happens: in the past, the present or the future. It also tells us **how** we see the action: finished, in progress, or connected to another time.
+English has **3 times** × **4 aspects** = **12 tenses**.
+| | Simple | Continuous | Perfect | Perfect Continuous |
+| Present | I work | I am working | I have worked | I have been working |
+| Past | I worked | I was working | I had worked | I had been working |
+| Future | I will work | I will be working | I will have worked | I will have been working |
+### What do the four aspects mean?
+- **Simple**: a fact, a habit, a complete action. "I work in a bank."
+- **Continuous** (be + -ing): an action in progress at a time. "I am working now."
+- **Perfect** (have + past participle): an action completed before another time; connects two times. "I have finished."
+- **Perfect continuous** (have been + -ing): an action that continued up to a time, with a focus on duration. "I have been working for three hours."
+> **Tip:** Don't try to learn all 12 at once. The most important for daily conversation are: **present simple, present continuous, past simple, present perfect, and future (will / going to)**. Master these five first. They make up about 90% of everyday English.
+
+## The three verb forms
+Every English verb has three main forms. You must know them!
+| Base form (V1) | Past simple (V2) | Past participle (V3) |
+| work | worked | worked |
+| play | played | played |
+| go | went | gone |
+| eat | ate | eaten |
+| see | saw | seen |
+| write | wrote | written |
+Regular verbs add **-ed** for V2 and V3. Irregular verbs change in different ways – see the full list of irregular verbs in Part 5.
+Plus the **-ing form**: working, playing, going, eating.
+### Spelling of -ing
+| Rule | Examples |
+| Most verbs: + ing | work → working, eat → eating, go → going |
+| Ends in -e: drop e + ing | make → making, write → writing, come → coming |
+| One vowel + one consonant (stressed): double + ing | run → running, swim → swimming, sit → sitting, begin → beginning |
+| Ends in -ie: ie → ying | lie → lying, die → dying, tie → tying |
+| Ends in -ee, -ye, -oe: keep e | see → seeing, agree → agreeing |
+### Spelling of -ed
+| Rule | Examples |
+| Most verbs: + ed | walk → walked, clean → cleaned |
+| Ends in -e: + d | live → lived, dance → danced |
+| Consonant + y: y → ied | study → studied, cry → cried |
+| Vowel + y: + ed | play → played, enjoy → enjoyed |
+| One vowel + one consonant (stressed): double + ed | stop → stopped, plan → planned, prefer → preferred |
+
+# Present Simple
+
+## What is it?
+The present simple is for **facts, habits, routines and things that are always true**.
+- I **drink** tea every morning. (habit)
+- Water **boils** at 100°C. (fact)
+- She **works** in a hospital. (permanent situation)
+- The sun **rises** in the east. (always true)
+
+## How to make it
+### Positive
+| Subject | Verb |
+| I / You / We / They | work, play, live |
+| He / She / It | work**s**, play**s**, live**s** |
+**The golden rule**: with **he, she, it** (or one person/thing), add **-s** to the verb.
+### Spelling of -s
+| Rule | Examples |
+| Most verbs: + s | works, reads, sleeps |
+| Ends in -s, -sh, -ch, -x, -o: + es | misses, washes, watches, fixes, goes, does |
+| Consonant + y: y → ies | study → studies, cry → cries, fly → flies |
+| Vowel + y: + s | play → plays, buy → buys |
+| Irregular | have → **has** |
+### Negative: don't / doesn't + base verb
+| Subject | Negative |
+| I / You / We / They | **don't** (do not) work |
+| He / She / It | **doesn't** (does not) work |
+### Questions: Do / Does + subject + base verb?
+| Question | Short answers |
+| **Do** you **like** pizza? | Yes, I do. / No, I don't. |
+| **Does** she **speak** French? | Yes, she does. / No, she doesn't. |
+| **Do** they **live** here? | Yes, they do. / No, they don't. |
+| **Where do** you **work**? | I work in a bank. |
+| **What time does** the shop **open**? | It opens at 9. |
+! She work in a bank. => She work**s** in a bank.
+! He don't like coffee. => He **doesn't** like coffee.
+! She doesn't likes coffee. => She doesn't **like** coffee.
+! Does he works here? => Does he **work** here?
+! You like pizza? (in writing) => **Do** you like pizza?
+! Where you live? => Where **do** you live?
+> **Tip:** The "-s" goes to only ONE place. In positive sentences it goes on the verb (she work**s**). In negatives and questions it goes on "do" (she **does**n't work, **does** she work?).
+
+## When to use it
+### 1. Habits and routines
+- I **get up** at 6 o'clock every day.
+- She **goes** to the gym three times a week.
+- We usually **have** dinner at 8.
+Signal words: always, usually, often, sometimes, never, every day, on Mondays, once a week
+### 2. Facts and general truths
+- Cats **like** fish.
+- It **rains** a lot in Kerala.
+- The Earth **goes** around the Sun.
+### 3. Permanent situations
+- My parents **live** in Kolkata.
+- He **works** for Google.
+### 4. Timetables and schedules (future)
+- The train **leaves** at 7:30 tomorrow.
+- The film **starts** at 9 p.m.
+### 5. Stative verbs (see below)
+- I **know** the answer.
+- She **loves** her children.
+
+## Stative verbs
+Some verbs describe **states** (feelings, thoughts, senses, possession), not actions. We usually do **not** use them in the continuous form.
+| Type | Verbs |
+| Feelings | love, like, hate, want, need, prefer, wish |
+| Thinking | know, believe, understand, remember, forget, mean, think (= opinion), agree, suppose |
+| Senses | see, hear, smell, taste, seem, look (= seem), sound |
+| Possession | have (= own), own, belong, possess |
+| Others | be, cost, weigh, contain, depend, matter |
+! I am knowing the answer. => I **know** the answer.
+! She is wanting a new car. => She **wants** a new car.
+! I am understanding you. => I **understand** you.
+! This is belonging to me. => This **belongs** to me.
+
+## Daily routine: example text
+Read this text out loud. Notice all the present simple verbs.
+"My name is Meera. I **am** 28 and I **work** as a nurse. I **live** in Chennai with my husband and our son. Every day I **wake up** at 5:30. I **have** a quick shower and I **make** breakfast. My husband **takes** our son to school. I **start** work at 7. I **don't have** much free time, but on Sundays we **go** to the beach. My son **loves** the sea. He **doesn't like** vegetables, but he **eats** a lot of fruit. What **do** you **do** on Sundays?"
+EX: Write the correct form of the verb
+1. She ___ (go) to school by bus. || goes
+2. I ___ (not / like) coffee. || don't like
+3. ___ he ___ (play) cricket? || Does ... play
+4. My father ___ (watch) the news every evening. || watches
+5. They ___ (not / live) in London. || don't live
+6. The baby ___ (cry) a lot. || cries
+7. Water ___ (freeze) at 0°C. || freezes
+8. ___ you ___ (speak) Hindi? || Do ... speak
+9. He ___ (have) two cars. || has
+10. My sister ___ (not / eat) meat. || doesn't eat
+11. Where ___ your brother ___ (work)? || does ... work
+12. The bank ___ (open) at 9:30. || opens
+EX: Correct the mistakes
+1. He go to work at 8. || He goes to work at 8.
+2. She don't speak English. || She doesn't speak English.
+3. Does she likes music? || Does she like music?
+4. I am knowing him for years. || I have known him for years.
+5. Where you live? || Where do you live?
+6. My brother study at university. || My brother studies at university.
+
+# Present Continuous
+
+## What is it?
+The present continuous is for actions happening **now**, around now, temporary situations, and future plans.
+- I **am reading** this book now.
+- She **is cooking** dinner at the moment.
+
+## How to make it: am / is / are + verb-ing
+| Positive | Negative | Question |
+| I **am** (I'm) work**ing** | I'm **not** working | **Am** I working? |
+| You / We / They **are** (you're) working | You **aren't** working | **Are** you working? |
+| He / She / It **is** (he's) working | He **isn't** working | **Is** he working? |
+- What **are** you **doing**? – I'**m watching** TV.
+- **Is** it **raining**? – Yes, it **is**. / No, it **isn't**.
+! I watching TV. => I **am** watching TV.
+! She is cook dinner. => She is cook**ing** dinner.
+! What you are doing? => What **are you** doing?
+
+## When to use it
+### 1. Actions happening now
+- Be quiet! The baby **is sleeping**.
+- Look! It**'s snowing**.
+- I can't talk now. I'**m driving**.
+Signal words: now, right now, at the moment, Look!, Listen!
+### 2. Temporary actions (around now, not exactly at this moment)
+- I'**m reading** a great book this week.
+- She **is living** with her friend until she finds a flat.
+- We **are learning** English this year.
+### 3. Changing situations
+- The weather **is getting** colder.
+- Prices **are rising**.
+- Your English **is improving**!
+### 4. Future plans and arrangements
+- I'**m meeting** Rahul tomorrow at 6.
+- We **are flying** to Dubai next Friday.
+- What **are** you **doing** this weekend?
+### 5. Annoying habits (with always)
+- He **is always losing** his keys!
+- You'**re always complaining**!
+
+## Present simple or present continuous?
+| Present simple | Present continuous |
+| Habit / always | Now / temporary |
+| I **work** in an office. | I'**m working** from home this week. |
+| She **plays** tennis on Sundays. | She'**s playing** tennis right now. |
+| It **rains** a lot in July. | It'**s raining** now. Take an umbrella. |
+| What **do** you **do**? (= What is your job?) | What **are** you **doing**? (= now) |
+| He usually **drinks** tea. | Today he'**s drinking** coffee. |
+### Verbs with two meanings
+Some stative verbs can be actions with a different meaning:
+| State (simple) | Action (continuous) |
+| I **think** it's a good idea. (opinion) | I'**m thinking** about my holiday. (using my brain) |
+| I **have** a car. (possession) | I'**m having** lunch. (eating) |
+| The soup **tastes** good. (quality) | The chef **is tasting** the soup. (action) |
+| You **look** tired. (seem) | Why **are** you **looking** at me? (action) |
+| I **see** what you mean. (understand) | I'**m seeing** the doctor tomorrow. (meeting) |
+EX: Present simple or continuous?
+1. Shh! The baby ___ (sleep). || is sleeping
+2. I usually ___ (walk) to work. || walk
+3. Look! The bus ___ (come). || is coming
+4. She ___ (not / eat) meat. She's vegetarian. || doesn't eat
+5. What ___ you ___ (do) now? || are ... doing
+6. Water ___ (boil) at 100°C. || boils
+7. We ___ (meet) our friends tonight. || are meeting
+8. I ___ (not / understand) this word. || don't understand
+9. He ___ (work) in Dubai this month. || is working
+10. ___ you ___ (like) spicy food? || Do ... like
+11. My English ___ (get) better every day. || is getting
+12. I ___ (think) you are right. || think
+
+# Present Perfect
+
+## What is it?
+The present perfect connects the **past** and the **present**. We use it when the time is **not important or not finished**, or when a past action has a **result now**.
+- I **have lost** my keys. (I don't have them now.)
+- She **has been** to London three times. (in her life)
+- We **have lived** here since 2018. (and we still live here)
+
+## How to make it: have / has + past participle (V3)
+| Positive | Negative | Question |
+| I / You / We / They **have** (I've) finished | I **haven't** finished | **Have** you finished? |
+| He / She / It **has** (she's) finished | She **hasn't** finished | **Has** she finished? |
+- **Have** you **eaten**? – Yes, I **have**. / No, I **haven't**.
+- She **has gone** home.
+- They **haven't arrived** yet.
+
+## When to use it
+### 1. Life experience (ever / never)
+The time is not important – only that it happened in your life.
+- I **have been** to Japan.
+- **Have** you **ever eaten** sushi? – No, I **never have**. / No, I've **never eaten** it.
+- She **has never seen** snow.
+- This is the best film I'**ve ever seen**.
+### 2. Past action with a present result
+- I'**ve broken** my leg. (I can't walk now.)
+- He **has lost** his wallet. (He doesn't have it now.)
+- Someone **has stolen** my bike!
+- Look, I'**ve bought** a new dress!
+### 3. Recent actions (just, already, yet)
+- I'**ve just finished** my homework. (a moment ago)
+- She **has already left**. (sooner than expected)
+- **Have** you **finished** **yet**? / I **haven't finished** **yet**.
+### 4. Unfinished time (for / since)
+The action started in the past and **continues now**.
+- I **have lived** here **for** ten years. (I still live here.)
+- She **has worked** at the bank **since** 2020.
+- We **have known** each other **since** childhood.
+- How long **have** you **been** married?
+| for + a period of time | since + a point in time |
+| for two hours | since 9 o'clock |
+| for three days | since Monday |
+| for a week | since last week |
+| for ten years | since 2016 |
+| for a long time | since I was a child |
+### 5. Unfinished time periods (today, this week, this year)
+- I'**ve drunk** three cups of coffee **today**. (today is not finished)
+- She **hasn't called** me **this week**.
+
+## Present perfect or past simple?
+This is very important!
+| Past simple – finished time | Present perfect – unfinished / no time |
+| I **saw** the film **yesterday**. | I'**ve seen** the film. (no time said) |
+| She **went** to Paris **in 2019**. | She'**s been** to Paris. (in her life) |
+| I **lost** my keys last week (but I found them). | I'**ve lost** my keys. (I can't find them now.) |
+| He **lived** in Delhi for 5 years (now he doesn't). | He'**s lived** in Delhi for 5 years (and still does). |
+| **When did** you **arrive**? | **Have** you **arrived** yet? |
+**Golden rule**: If you say **when** (yesterday, last week, in 2015, two days ago), use the **past simple**.
+! I have seen him yesterday. => I **saw** him yesterday.
+! I have visited Goa in 2020. => I **visited** Goa in 2020.
+! When have you arrived? => When **did** you arrive?
+! I live here since 2010. => I **have lived** here since 2010.
+! I know him for five years. => I **have known** him for five years.
+! I am here since morning. => I **have been** here since morning.
+
+## Been or gone?
+- She **has gone** to the market. (She is there now – not here.)
+- She **has been** to the market. (She went and came back.)
+- **Have** you ever **been** to Mumbai? (visited and returned)
+EX: Complete with the present perfect
+1. I ___ (finish) my work. || have finished
+2. She ___ (never / see) the sea. || has never seen
+3. ___ you ever ___ (be) to Japan? || Have ... been
+4. They ___ (not / arrive) yet. || haven't arrived
+5. He ___ (lose) his phone. || has lost
+6. We ___ (live) here since 2015. || have lived
+7. ___ she ___ (eat) yet? || Has ... eaten
+8. I ___ (just / call) my mother. || have just called
+EX: For or since?
+1. ___ three years || for
+2. ___ Monday || since
+3. ___ 2010 || since
+4. ___ a long time || for
+5. ___ I was ten || since
+6. ___ two hours || for
+EX: Past simple or present perfect?
+1. I ___ (see) that film last week. || saw
+2. ___ you ever ___ (try) Thai food? || Have ... tried
+3. She ___ (go) to Paris in 2018. || went
+4. I ___ (know) him since school. || have known
+5. When ___ you ___ (start) this job? || did ... start
+6. Oh no! I ___ (forget) my password. || have forgotten
+7. We ___ (move) to this house two years ago. || moved
+8. He ___ (work) here for six months, and he likes it. || has worked
+
+# Present Perfect Continuous
+
+## What is it?
+The present perfect continuous is for an action that **started in the past** and **has continued until now** (or has just stopped). The focus is on **how long** or on the **activity** itself.
+- I **have been waiting** for you for an hour!
+- It **has been raining** all day.
+
+## How to make it: have / has + been + verb-ing
+| Positive | Negative | Question |
+| I / You / We / They **have been** working | I **haven't been** working | **Have** you **been** working? |
+| He / She / It **has been** working | She **hasn't been** working | **Has** she **been** working? |
+- How long **have** you **been learning** English?
+- She **has been studying** since 8 o'clock.
+
+## When to use it
+### 1. Duration up to now (how long?)
+- I'**ve been working** here **for** five years.
+- They'**ve been talking** on the phone **since** 7 p.m.
+- How long **have** you **been living** in Pune?
+### 2. Recent activity with visible results
+- You look tired. **Have** you **been running**? (You are sweating.)
+- Why are your hands dirty? – I'**ve been fixing** the car.
+- It **has been raining**. The streets are wet.
+
+## Present perfect simple or continuous?
+| Present perfect simple | Present perfect continuous |
+| Result / how many | Activity / how long |
+| I'**ve written** three emails. | I'**ve been writing** emails all morning. |
+| She'**s read** the book. (finished) | She'**s been reading** the book. (maybe not finished) |
+| I'**ve painted** the room. (done) | I'**ve been painting** the room. (that's why I'm dirty) |
+> **Tip:** With stative verbs (know, like, have = own, be), use the simple form: "I've **known** her for years." (not "I've been knowing")
+EX: Complete with the present perfect continuous
+1. I ___ (wait) for the bus for 20 minutes. || have been waiting
+2. She ___ (learn) English since January. || has been learning
+3. It ___ (rain) all morning. || has been raining
+4. How long ___ you ___ (live) here? || have ... been living
+5. They ___ (play) football for two hours. || have been playing
+6. He's tired because he ___ (work) all day. || has been working
+EX: Simple or continuous?
+1. I've ___ (read) five books this month. || read
+2. I've ___ (read) this book all week. || been reading
+3. She has ___ (know) him for ten years. || known
+4. We've ___ (clean) the house all morning. || been cleaning
+5. Have you ___ (finish) your homework? || finished

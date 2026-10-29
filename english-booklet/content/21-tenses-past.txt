@@ -1,0 +1,253 @@
+# Past Simple
+
+## What is it?
+The past simple is for actions that **started and finished in the past**, usually at a known time.
+- I **visited** my grandmother **yesterday**.
+- She **bought** a new car **last month**.
+- We **didn't go** to school **on Monday**.
+
+## How to make it
+### Positive: verb + -ed (regular) or V2 (irregular)
+The form is the **same for all persons** (I, you, he, she, we, they). No "-s"!
+| Regular | Irregular |
+| I work**ed** | I **went** |
+| She play**ed** | She **ate** |
+| They stud**ied** | They **saw** |
+| We stop**ped** | We **had** |
+### Negative: didn't + base verb
+- I **didn't work** yesterday.
+- She **didn't go** to the party.
+### Questions: Did + subject + base verb?
+| Question | Short answers |
+| **Did** you **see** the match? | Yes, I did. / No, I didn't. |
+| **Did** she **call** you? | Yes, she did. / No, she didn't. |
+| **Where did** you **go**? | I went to Goa. |
+| **What did** they **eat**? | They ate pizza. |
+| **When did** he **arrive**? | He arrived at 9. |
+! I didn't went. => I didn't **go**.
+! Did you saw him? => Did you **see** him?
+! She didn't called me. => She didn't **call** me.
+! Yesterday I go to the market. => Yesterday I **went** to the market.
+! I goed / I eated / I buyed => I **went** / I **ate** / I **bought**
+> **Tip:** After "did" and "didn't", the verb always returns to the **base form**. The "did" already shows the past. You don't need to show the past twice!
+
+## Most common irregular verbs in the past
+Learn these first – they appear in every conversation.
+| Base | Past | Base | Past |
+| be | was / were | make | made |
+| have | had | know | knew |
+| do | did | think | thought |
+| go | went | take | took |
+| say | said | see | saw |
+| get | got | come | came |
+| give | gave | find | found |
+| tell | told | feel | felt |
+| leave | left | bring | brought |
+| buy | bought | eat | ate |
+| drink | drank | sleep | slept |
+| write | wrote | read | read (said "red") |
+| speak | spoke | meet | met |
+| run | ran | sit | sat |
+| begin | began | pay | paid |
+| lose | lost | send | sent |
+| spend | spent | teach | taught |
+| win | won | become | became |
+(See the full list of 150 irregular verbs in Part 5.)
+
+## When to use it
+### 1. Finished actions at a definite time
+- I **met** her **in 2015**.
+- They **arrived** **two hours ago**.
+- **Last night** we **watched** a film.
+Signal words: yesterday, last night/week/month/year, ago, in 2010, when I was a child, then, after that
+### 2. A sequence of past actions (a story)
+- I **woke up**, **had** a shower, **got** dressed and **left** for work.
+### 3. Past habits
+- When I was a child, I **played** in the street every day.
+### 4. A finished period of time
+- He **lived** in Paris for ten years. (He doesn't live there now.)
+
+## "Ago"
+"Ago" means "back from now". It goes **after** the time period.
+- I came here **three years ago**.
+- She called **ten minutes ago**.
+- How long **ago** did you start?
+! I came before two years. => I came two years **ago**.
+! Ago two days => two days **ago**
+
+## A short story in the past simple
+Read the story aloud.
+"Last Saturday **was** a terrible day for Arjun. He **woke up** late because his alarm **didn't ring**. He **jumped** out of bed and **ran** to the bus stop, but the bus **left** just before he **arrived**. He **took** a taxi, but there **was** a lot of traffic. When he finally **got** to the office, he **realised** something: it **was** Saturday! The office **was** closed. He **laughed**, **bought** a coffee and **went** back home to sleep."
+### Questions about the story
+- Why did Arjun wake up late? – Because his alarm didn't ring.
+- Did he catch the bus? – No, he didn't.
+- How did he go to the office? – He took a taxi.
+- Why was the office closed? – Because it was Saturday.
+EX: Write the past simple
+1. go || went
+2. play || played
+3. buy || bought
+4. study || studied
+5. eat || ate
+6. stop || stopped
+7. see || saw
+8. write || wrote
+9. think || thought
+10. teach || taught
+EX: Complete the sentences
+1. I ___ (visit) my uncle last week. || visited
+2. She ___ (not / come) to the party. || didn't come
+3. ___ you ___ (enjoy) the film? || Did ... enjoy
+4. We ___ (have) a great time in Goa. || had
+5. He ___ (lose) his keys yesterday. || lost
+6. Where ___ you ___ (go) on holiday? || did ... go
+7. They ___ (not / see) the accident. || didn't see
+8. I ___ (meet) my wife ten years ago. || met
+9. What ___ she ___ (say)? || did ... say
+10. The film ___ (start) at 9 and ___ (finish) at 11. || started ... finished
+EX: Correct the mistakes
+1. I didn't saw him. || I didn't see him.
+2. Did you went to school? || Did you go to school?
+3. She buyed a new dress. || She bought a new dress.
+4. I have seen him yesterday. || I saw him yesterday.
+5. We go to the cinema last night. || We went to the cinema last night.
+
+# Past Continuous
+
+## What is it?
+The past continuous is for an action that was **in progress** at a time in the past.
+- At 8 o'clock last night, I **was watching** TV.
+- What **were** you **doing** when I called?
+
+## How to make it: was / were + verb-ing
+| Positive | Negative | Question |
+| I / He / She / It **was** working | I **wasn't** working | **Was** she working? |
+| You / We / They **were** working | They **weren't** working | **Were** you working? |
+
+## When to use it
+### 1. An action in progress at a specific past time
+- At 7 a.m. I **was having** breakfast.
+- This time last year, we **were living** in Bangalore.
+### 2. A long action interrupted by a short action
+The long action → past continuous. The short action → past simple.
+- I **was cooking** when the phone **rang**.
+- She **was walking** home when she **saw** an accident.
+- While we **were sleeping**, someone **broke** into the house.
+### 3. Two long actions at the same time (while)
+- **While** I **was studying**, my brother **was playing** video games.
+### 4. Background description in a story
+- It **was raining**. People **were hurrying** home. A dog **was barking** somewhere...
+
+## When or while?
+- **when** + past simple (short action): "I was reading **when** she **arrived**."
+- **while** + past continuous (long action): "She arrived **while** I **was reading**."
+! When I was sleep, the phone rang. => When I **was sleeping**, the phone rang.
+! I was knowing the answer. => I **knew** the answer. (stative verb)
+EX: Complete with past simple or past continuous
+1. I ___ (read) when the lights ___ (go) out. || was reading ... went
+2. What ___ you ___ (do) at 9 last night? || were ... doing
+3. She ___ (cut) her finger while she ___ (cook). || cut ... was cooking
+4. We ___ (watch) TV when you ___ (call). || were watching ... called
+5. While they ___ (play) football, it ___ (start) to rain. || were playing ... started
+6. I ___ (see) Priya while I ___ (wait) for the bus. || saw ... was waiting
+7. It ___ (snow) when we ___ (wake up). || was snowing ... woke up
+8. He ___ (not / listen) when the teacher ___ (explain) the lesson. || wasn't listening ... was explaining
+
+# Past Perfect
+
+## What is it?
+The past perfect is "the past of the past". We use it to show that one past action happened **before** another past action.
+- When I arrived at the station, the train **had** already **left**.
+(First: the train left. Second: I arrived.)
+
+## How to make it: had + past participle (V3)
+The form is the same for all persons.
+| Positive | Negative | Question |
+| I / She / They **had** (I'd) finished | I **hadn't** finished | **Had** you finished? |
+
+## When to use it
+### 1. The earlier of two past actions
+- She **had cooked** dinner before her husband came home.
+- When we got to the cinema, the film **had** already **started**.
+- I **had** never **seen** the sea before I went to Goa.
+### 2. Reported speech (see Part 4)
+- He said he **had lost** his phone.
+### 3. Third conditional (see Part 4)
+- If I **had studied**, I would have passed.
+### Compare
+- When I arrived, she **left**. (I arrived, then she left.)
+- When I arrived, she **had left**. (She left first. I didn't see her.)
+> **Tip:** You don't need the past perfect if "before" or "after" already makes the order clear: "I ate dinner before I went out" is fine.
+EX: Complete with the past perfect
+1. When I got home, my family ___ (eat) dinner. || had eaten
+2. She was sad because she ___ (lose) her ring. || had lost
+3. I ___ (never / fly) before that trip. || had never flown
+4. By the time the police came, the thief ___ (escape). || had escaped
+5. ___ you ___ (finish) the work before the manager arrived? || Had ... finished
+6. He ___ (not / study), so he failed the exam. || hadn't studied
+
+# Past Perfect Continuous
+
+## What is it?
+The past perfect continuous shows that an action **continued for some time before** another past moment.
+- I **had been waiting** for two hours when the bus finally came.
+- She was tired because she **had been working** all day.
+
+## How to make it: had been + verb-ing
+| Positive | Negative | Question |
+| I / He / They **had been** working | I **hadn't been** working | **Had** you **been** working? |
+
+## When to use it
+### 1. Duration before a past point
+- They **had been living** in London for ten years before they moved to Canada.
+- How long **had** you **been studying** English before you went to Australia?
+### 2. Cause of a past situation
+- His eyes were red because he **had been crying**.
+- The ground was wet. It **had been raining**.
+EX: Complete with the past perfect continuous
+1. I was tired because I ___ (run). || had been running
+2. They ___ (wait) for an hour when the doctor came. || had been waiting
+3. She ___ (work) there for five years before she got a promotion. || had been working
+4. The road was wet. It ___ (rain). || had been raining
+5. How long ___ he ___ (drive) before he stopped? || had ... been driving
+
+# Used To and Would (Past Habits)
+
+## Used to
+We use **used to + base verb** for past habits or states that are **not true now**.
+- I **used to** play cricket every day. (but I don't now)
+- She **used to** live in Mumbai. (she lives somewhere else now)
+- There **used to** be a cinema here. (now there isn't)
+| Positive | Negative | Question |
+| I **used to** smoke. | I **didn't use to** smoke. | **Did** you **use to** smoke? |
+! I use to play cricket. (past) => I **used to** play cricket.
+! Did you used to live here? => Did you **use to** live here?
+! I am used to play football when I was young. => I **used to** play football when I was young.
+
+## Be used to / get used to (different meaning!)
+**be used to + -ing / noun** = be familiar with, it is normal for me.
+- I **am used to** waking up early. (It's normal for me – not difficult.)
+- She **isn't used to** the cold weather.
+**get used to + -ing / noun** = become familiar with.
+- You will **get used to** driving on the left.
+- It took me a month to **get used to** my new job.
+| Structure | Meaning | Example |
+| used to + verb | past habit | I **used to** work at night. |
+| be used to + -ing | normal for me | I'**m used to working** at night. |
+| get used to + -ing | becoming normal | I'**m getting used to working** at night. |
+
+## Would (past repeated actions)
+"Would" can also describe repeated past actions (not states), often in stories about childhood.
+- Every summer, we **would** go to my grandparents' village. My grandmother **would** make sweets for us.
+! I would have long hair when I was young. (state) => I **used to** have long hair.
+EX: Complete with used to / didn't use to / use to
+1. I ___ live in a village, but now I live in the city. || used to
+2. She ___ like vegetables, but now she loves them. || didn't use to
+3. Did you ___ play with dolls? || use to
+4. There ___ be a park here. Now it's a car park. || used to
+5. My father ___ smoke, but he stopped five years ago. || used to
+EX: Choose the correct form
+1. I'm not used to (get / getting) up so early. || getting
+2. He used to (work / working) in a bank. || work
+3. You'll soon get used to (live / living) here. || living
+4. When I was a child, I (would / used to) have a dog. || used to

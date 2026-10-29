@@ -1,0 +1,441 @@
+@PART Part 4: Building Sentences :: Questions, modal verbs, conditionals, passive voice, reported speech and more
+
+# Asking Questions
+
+## Two types of questions
+1. **Yes/No questions** – the answer is yes or no: "Are you hungry?" "Do you like tea?"
+2. **Wh- questions** – ask for information: "Where do you live?" "Why are you late?"
+
+## Yes/No questions: the auxiliary comes first
+Use the **auxiliary verb** (be, do, have, can, will...) before the subject.
+| Statement | Question |
+| She **is** a teacher. | **Is** she a teacher? |
+| They **are** coming. | **Are** they coming? |
+| He **can** swim. | **Can** he swim? |
+| You **have** finished. | **Have** you finished? |
+| It **will** rain. | **Will** it rain? |
+| You **like** pizza. | **Do** you like pizza? |
+| She **works** here. | **Does** she work here? |
+| They **went** home. | **Did** they go home? |
+> **Tip:** If there is no auxiliary in the sentence (present simple or past simple), add **do / does / did**.
+
+## Question words
+| Word | Asks about | Example |
+| What | thing / information | **What** is your name? **What** do you do? |
+| Where | place | **Where** do you live? |
+| When | time | **When** is the meeting? |
+| What time | exact time | **What time** does the bus leave? |
+| Who | person | **Who** is your best friend? |
+| Whom | person (object, formal) | **Whom** did you invite? |
+| Whose | owner | **Whose** car is this? |
+| Which | choice from a group | **Which** colour do you prefer, red or blue? |
+| Why | reason | **Why** are you crying? |
+| How | way / manner / condition | **How** do you go to work? **How** are you? |
+| How much | price / uncountable amount | **How much** is this? **How much** water? |
+| How many | countable number | **How many** brothers do you have? |
+| How old | age | **How old** are you? |
+| How long | duration / length | **How long** does it take? **How long** is the river? |
+| How often | frequency | **How often** do you exercise? |
+| How far | distance | **How far** is the station? |
+| What kind of | type | **What kind of** music do you like? |
+
+## Word order in Wh- questions
+**Question word + auxiliary + subject + main verb + ...?**
+| Question word | Auxiliary | Subject | Main verb | Rest |
+| Where | do | you | live? | |
+| What | is | she | doing? | |
+| When | did | they | arrive? | |
+| How long | have | you | been | here? |
+| Why | can't | he | come? | |
+| What time | will | the train | arrive? | |
+! Where you are going? => Where **are you** going?
+! What you want? => What **do you** want?
+! Why she is angry? => Why **is she** angry?
+! How much it costs? => How much **does it** cost?
+
+## Subject questions (no do/does/did)
+When **who** or **what** is the **subject** (the person/thing doing the action), do not use do/does/did:
+| Object question | Subject question |
+| **Who did** you **call**? – I called Sam. | **Who called** you? – Sam called me. |
+| **What did** she **break**? – She broke a glass. | **What happened**? – There was an accident. |
+- **Who lives** here? (not "Who does live here?")
+- **Who wants** coffee?
+- **What makes** you happy?
+- **How many** people **came** to the party?
+
+## Questions with prepositions at the end
+In English, the preposition often goes at the **end** of the question:
+- **Where** are you **from**?
+- **Who** are you talking **to**?
+- **What** are you looking **at**?
+- **What** is this book **about**?
+- **Who** is this gift **for**?
+- **What** are you afraid **of**?
+
+## Indirect (polite) questions
+To be more polite, start with "Could you tell me...", "Do you know...", "I wonder...". The word order becomes **normal** (subject + verb). There is no do/does/did.
+| Direct question | Indirect question |
+| Where **is** the bank? | Could you tell me where **the bank is**? |
+| What time **does** the shop **open**? | Do you know what time **the shop opens**? |
+| How much **is** this? | Can you tell me how much **this is**? |
+| **Did** she call? | Do you know **if / whether** she called? |
+| Why **is** he late? | I wonder why **he is** late. |
+! Can you tell me where is the station? => Can you tell me where **the station is**?
+! Do you know what time does the film start? => Do you know what time **the film starts**?
+
+## Question tags
+A question tag is a short question at the end of a sentence. We use it to check information or ask for agreement.
+**Positive sentence → negative tag. Negative sentence → positive tag.**
+| Sentence | Tag |
+| You **are** a student, | **aren't** you? |
+| She **isn't** here, | **is** she? |
+| He **can** drive, | **can't** he? |
+| They **don't** eat meat, | **do** they? |
+| You **like** coffee, | **don't** you? |
+| She **went** home, | **didn't** she? |
+| We **have** met before, | **haven't** we? |
+| It **will** be fine, | **won't** it? |
+| I **am** right, | **aren't** I? (special!) |
+| **Let's** go, | **shall** we? |
+| Open the door, | **will** you? |
+- Voice going **down** ↘ = you are sure, you want agreement: "It's a lovely day, isn't it? ↘"
+- Voice going **up** ↗ = a real question, you are not sure: "You're coming, aren't you? ↗"
+
+## Short answers
+In English, we rarely answer only "Yes" or "No". It can sound rude. Use short answers:
+- "Do you like it?" – "Yes, I **do**." / "No, I **don't**."
+- "Is she ready?" – "Yes, she **is**." / "No, she **isn't**."
+- "Can you swim?" – "Yes, I **can**." / "No, I **can't**."
+- "Have you finished?" – "Yes, I **have**." / "Not yet."
+
+## Agreeing: so do I / neither do I
+| Statement | Agree (same) | Disagree (different) |
+| I like tea. | **So do I.** / Me too. | Really? I **don't**. |
+| I don't like tea. | **Neither do I.** / Me neither. | Really? I **do**. |
+| I'm tired. | **So am I.** | I'm **not**. |
+| I can't swim. | **Neither can I.** | I **can**. |
+| I went to Goa. | **So did I.** | I **didn't**. |
+| I've never been there. | **Neither have I.** | I **have**. |
+EX: Make questions
+1. She lives in Pune. (Where...?) || Where does she live?
+2. They are watching TV. (What...?) || What are they watching?
+3. He went to the doctor. (Where...?) || Where did he go?
+4. I get up at 6. (What time...?) || What time do you get up?
+5. The bag costs 500 rupees. (How much...?) || How much does the bag cost? / How much is the bag?
+6. Riya broke the window. (Who...?) || Who broke the window?
+7. I have two sisters. (How many...?) || How many sisters do you have?
+8. She is crying because she is sad. (Why...?) || Why is she crying?
+9. I go to the gym three times a week. (How often...?) || How often do you go to the gym?
+10. It takes 20 minutes. (How long...?) || How long does it take?
+EX: Add question tags
+1. You're from Delhi, ___? || aren't you
+2. She can't swim, ___? || can she
+3. They went to the party, ___? || didn't they
+4. He doesn't eat fish, ___? || does he
+5. We've met before, ___? || haven't we
+6. I'm late, ___? || aren't I
+7. Let's have a break, ___? || shall we
+8. It will rain, ___? || won't it
+EX: Make the questions polite
+1. Where is the toilet? (Could you tell me...) || Could you tell me where the toilet is?
+2. What time does the bank close? (Do you know...) || Do you know what time the bank closes?
+3. Is this seat free? (Do you know if...) || Do you know if this seat is free?
+
+# Negative Sentences
+
+## How to make negatives
+Add **not** after the auxiliary. If there is no auxiliary, use **don't / doesn't / didn't**.
+| Positive | Negative |
+| I **am** happy. | I'm **not** happy. |
+| She **is** at home. | She **isn't** at home. |
+| They **can** come. | They **can't** come. |
+| I **will** go. | I **won't** go. |
+| He **has** finished. | He **hasn't** finished. |
+| I **like** tea. | I **don't** like tea. |
+| She **works** here. | She **doesn't** work here. |
+| We **saw** it. | We **didn't** see it. |
+
+## Short forms
+| Long | Short |
+| is not | isn't |
+| are not | aren't |
+| was not | wasn't |
+| were not | weren't |
+| do not | don't |
+| does not | doesn't |
+| did not | didn't |
+| have not | haven't |
+| has not | hasn't |
+| had not | hadn't |
+| will not | won't |
+| would not | wouldn't |
+| cannot | can't |
+| could not | couldn't |
+| should not | shouldn't |
+| must not | mustn't |
+
+## Only one negative!
+In standard English, use only **one** negative word in a sentence.
+! I don't know nothing. => I don't know **anything**. / I know **nothing**.
+! I didn't see nobody. => I didn't see **anybody**. / I saw **nobody**.
+! She never doesn't eat meat. => She **never** eats meat.
+! We don't have no money. => We don't have **any** money.
+
+## Other negative words
+| Word | Example |
+| never | I **never** drink alcohol. |
+| nobody / no one | **Nobody** called. |
+| nothing | There's **nothing** in the fridge. |
+| nowhere | I have **nowhere** to go. |
+| none | **None** of my friends came. |
+| no + noun | There's **no** milk. I have **no** idea. |
+| neither ... nor | **Neither** Ali **nor** Sara came. |
+| hardly / barely | I can **hardly** see. (almost not) |
+
+## Negative questions
+We use these to show surprise or to check something we think is true:
+- **Don't** you like chocolate? (I'm surprised!)
+- **Isn't** she your sister? (I thought she was.)
+- **Why didn't** you call me?
+- **Can't** you see I'm busy?
+Answer carefully: "Don't you like it?" – "**No**, I don't." (= I don't like it.) / "**Yes**, I do." (= I like it.)
+EX: Make these sentences negative
+1. I like football. || I don't like football.
+2. She is a doctor. || She isn't a doctor.
+3. They went to school. || They didn't go to school.
+4. He can drive. || He can't drive.
+5. We have finished. || We haven't finished.
+6. She speaks French. || She doesn't speak French.
+7. I will come. || I won't come.
+8. It was cold. || It wasn't cold.
+EX: Correct the double negatives
+1. I don't want nothing. || I don't want anything. / I want nothing.
+2. Nobody didn't help me. || Nobody helped me.
+3. She doesn't know nobody here. || She doesn't know anybody here.
+
+# Modal Verbs: Can, Could, Must, Should and More
+
+## What are modal verbs?
+Modal verbs are special helping verbs. They show **ability, possibility, permission, obligation, advice**, and more.
+The modals: **can, could, may, might, must, shall, should, will, would**, and semi-modals **have to, need to, ought to, be able to**.
+### Grammar rules for modals
+1. Modal + **base verb** (no "to"): I can **swim**. (not "I can to swim")
+2. **No -s** with he/she/it: She **can** swim. (not "She cans")
+3. Negatives: add **not**: can't, shouldn't, mustn't, won't
+4. Questions: put the modal first: **Can** you help me?
+! She can speaks English. => She can **speak** English.
+! I must to go. => I must **go**.
+! He cans swim. => He **can** swim.
+! Do you can help me? => **Can** you help me?
+
+## CAN / CAN'T
+| Use | Example |
+| Ability (present) | I **can** speak three languages. She **can't** swim. |
+| Permission (informal) | **Can** I use your phone? You **can** sit here. |
+| Requests (informal) | **Can** you pass the salt, please? |
+| Possibility | It **can** be very hot in May. |
+| Offers | **Can** I help you? |
+### Be able to
+Use "be able to" for ability in other tenses:
+- I **will be able to** come tomorrow. (future)
+- I **have** never **been able to** swim. (present perfect)
+- I'd like **to be able to** play the piano.
+
+## COULD
+| Use | Example |
+| Past ability | When I was five, I **could** read. I **couldn't** sleep last night. |
+| Polite request | **Could** you help me, please? **Could** I ask a question? |
+| Possibility | It **could** rain later. That **could** be true. |
+| Suggestion | We **could** go to the cinema. |
+> **Tip:** "Could you...?" is more polite than "Can you...?". Use "could" with strangers, at work, and in shops.
+
+## MAY and MIGHT
+| Use | Example |
+| Possibility (maybe) | It **may** rain. She **might** be at home. I **might not** come. |
+| Formal permission | **May** I come in? You **may** leave now. |
+"May" and "might" are almost the same for possibility. "Might" is a little less sure.
+- I **may** go to the party. (about 50%)
+- I **might** go to the party. (about 30–40%)
+
+## MUST and HAVE TO
+| Use | Example |
+| Strong obligation (from the speaker) | I **must** finish this today. You **must** see this film! |
+| Obligation (rules, from outside) | I **have to** wear a uniform at work. |
+| Strong logical conclusion | You've worked all day. You **must** be tired. |
+### Mustn't vs don't have to – VERY different!
+| mustn't | don't have to |
+| It is **forbidden**. Don't do it! | It is **not necessary**. You can choose. |
+| You **mustn't** smoke here. | You **don't have to** come. (but you can if you want) |
+| You **mustn't** tell anyone. It's a secret. | It's Sunday. I **don't have to** work. |
+### Past of must = had to
+- I **had to** work late yesterday. (not "I musted")
+
+## SHOULD and OUGHT TO
+Use for **advice** and recommendations – what is a good idea.
+- You **should** see a doctor.
+- You **shouldn't** eat so much sugar.
+- What **should** I do?
+- You **ought to** apologise. (= should, a little more formal)
+- I think you **should** learn English every day!
+### Had better (strong advice, warning)
+- You'**d better** hurry, or you'll miss the train.
+- You'**d better not** be late again.
+
+## WOULD
+| Use | Example |
+| Polite requests | **Would** you open the door, please? |
+| Offers | **Would** you like some tea? |
+| Wishes / preferences | I **would like** a coffee. I'**d rather** stay home. |
+| Imaginary situations | I **would** buy a house if I had money. |
+### Would like vs like
+- "**Do you like** coffee?" = in general. "Yes, I do."
+- "**Would you like** a coffee?" = an offer now. "Yes, please." / "No, thank you."
+! I like a coffee, please. => I**'d like** a coffee, please.
+
+## SHALL
+Mostly used with I/we for offers and suggestions (British English):
+- **Shall** I carry your bag? (offer)
+- **Shall** we go? (suggestion)
+- What time **shall** we meet?
+
+## NEED
+- I **need to** buy some milk.
+- You **don't need to** worry. (= don't have to)
+- **Do** I **need to** bring anything?
+
+## Modal verbs in the past (modal + have + V3)
+| Form | Meaning | Example |
+| should have + V3 | it was a good idea, but you didn't | You **should have told** me! |
+| shouldn't have + V3 | it was a bad idea, but you did it | I **shouldn't have eaten** so much. |
+| could have + V3 | it was possible, but didn't happen | You **could have died**! |
+| might / may have + V3 | maybe it happened | She **might have missed** the bus. |
+| must have + V3 | I'm sure it happened | He **must have forgotten**. |
+| can't have + V3 | I'm sure it didn't happen | She **can't have seen** us. |
+| would have + V3 | imaginary past | I **would have helped** you. |
+
+## Summary of modals
+| Function | Modals |
+| Ability | can, could, be able to |
+| Permission | can, could, may |
+| Requests | can, could, will, would |
+| Offers | can, shall, will, would you like |
+| Possibility | may, might, could |
+| Certainty / deduction | must (sure yes), can't (sure no) |
+| Obligation | must, have to, need to |
+| No obligation | don't have to, don't need to, needn't |
+| Prohibition | mustn't, can't |
+| Advice | should, ought to, had better |
+EX: Choose the correct modal
+1. I ___ swim when I was six. (can / could) || could
+2. You ___ smoke in the hospital. It's forbidden. (mustn't / don't have to) || mustn't
+3. It's a holiday tomorrow. We ___ go to work. (mustn't / don't have to) || don't have to
+4. You look ill. You ___ see a doctor. (should / can) || should
+5. ___ I open the window? (Shall / Will) || Shall
+6. ___ you like some cake? (Do / Would) || Would
+7. She ___ be at home. Her car is outside. (must / can't) || must
+8. He ___ be at work. It's Sunday. (must / can't) || can't
+9. ___ you help me with this bag, please? (Could / Must) || Could
+10. It ___ rain later. Take an umbrella. (might / must) || might
+EX: Correct the mistakes
+1. She can sings very well. || She can sing very well.
+2. You must to wear a seatbelt. || You must wear a seatbelt.
+3. Do you can speak English? || Can you speak English?
+4. I musted work yesterday. || I had to work yesterday.
+5. He shoulds study more. || He should study more.
+6. I like a cup of tea, please. || I'd like a cup of tea, please.
+EX: Complete with should have / must have / could have
+1. You ___ (tell) me! I would have helped. || should have told
+2. The ground is wet. It ___ (rain) last night. || must have rained
+3. Be careful! You ___ (fall)! || could have fallen
+
+# Conditionals: If Sentences
+
+## What are conditionals?
+Conditional sentences have two parts: the **if-clause** (the condition) and the **main clause** (the result).
+"**If it rains**, **I will stay at home**."
+You can start with either part. If you start with "if", use a comma: "If it rains, I'll stay home." / "I'll stay home if it rains."
+
+## Zero conditional: facts that are always true
+**If + present simple, present simple**
+- If you heat water to 100°C, it **boils**.
+- If I **drink** coffee at night, I **can't** sleep.
+- Plants **die** if they **don't get** water.
+("If" here means "when" or "every time".)
+
+## First conditional: real future possibility
+**If + present simple, will + base verb**
+- If it **rains** tomorrow, we **will stay** at home.
+- If you **study** hard, you **will pass** the exam.
+- I**'ll call** you if I **have** time.
+- If you **don't hurry**, you**'ll miss** the bus.
+! If it will rain, I will stay home. => If it **rains**, I will stay home.
+> **Tip:** Never use "will" in the if-clause. "If" + present, then "will" in the result.
+### Unless = if not
+- **Unless** you hurry, you'll be late. (= If you don't hurry...)
+- I won't go **unless** you come with me.
+
+## Second conditional: imaginary present or unlikely future
+**If + past simple, would + base verb**
+The situation is **not real** or very **unlikely**. The past tense here does **not** mean past time – it means "imaginary".
+- If I **had** a lot of money, I **would buy** a big house. (But I don't have a lot of money.)
+- If I **won** the lottery, I**'d travel** around the world.
+- What **would** you **do** if you **saw** a ghost?
+- If she **lived** near here, she **would visit** us more often.
+### If I were you (advice)
+With "be", we often use **were** for all persons in the second conditional:
+- If I **were** you, I **would** take the job.
+- If I **were** rich, I'd help poor people.
+- If he **were** taller, he could play basketball.
+
+## Third conditional: imaginary past (regrets)
+**If + past perfect, would have + past participle**
+We talk about the **past** – something that did not happen, and its imaginary result.
+- If I **had studied**, I **would have passed** the exam. (But I didn't study, and I failed.)
+- If you **had told** me, I **would have helped** you.
+- If we **had left** earlier, we **wouldn't have missed** the train.
+- She **would have come** if she **had known** about the party.
+
+## Mixed conditionals
+Past condition → present result:
+- If I **had taken** that job, I **would be** rich now.
+- If she **hadn't missed** the flight, she **would be** here now.
+
+## Summary
+| Type | If-clause | Main clause | Use |
+| Zero | present simple | present simple | always true |
+| First | present simple | will + verb | real future possibility |
+| Second | past simple | would + verb | imaginary present / unlikely future |
+| Third | past perfect | would have + V3 | imaginary past |
+### Compare
+- If I **have** time, I **will** help you. (Maybe I will have time – real.)
+- If I **had** time, I **would** help you. (I don't have time – imaginary.)
+- If I **had had** time, I **would have helped** you. (I didn't have time – past.)
+
+## Wishes and regrets
+| Wish about | Form | Example |
+| Present (I want it to be different now) | wish + past simple | I **wish** I **had** a car. I wish I **were** taller. I wish I **spoke** English fluently. |
+| Past (regret) | wish + past perfect | I **wish** I **had studied** harder. I wish I **hadn't said** that. |
+| Annoying behaviour / want change | wish + would | I **wish** you **would** stop shouting! |
+"If only" is stronger: **If only** I **had** more time!
+EX: First conditional
+1. If it ___ (rain), I ___ (take) an umbrella. || rains ... will take
+2. If you ___ (not / eat), you ___ (be) hungry. || don't eat ... will be
+3. She ___ (be) angry if you ___ (be) late. || will be ... are
+4. If I ___ (see) him, I ___ (tell) him. || see ... will tell
+5. Unless you ___ (study), you ___ (fail). || study ... will fail
+EX: Second conditional
+1. If I ___ (have) a car, I ___ (drive) to work. || had ... would drive
+2. If she ___ (know) the answer, she ___ (tell) us. || knew ... would tell
+3. What ___ you ___ (do) if you ___ (win) a million dollars? || would ... do ... won
+4. If I ___ (be) you, I ___ (accept) the offer. || were ... would accept
+5. We ___ (go) to the beach if it ___ (be) sunny. || would go ... was/were
+EX: Third conditional
+1. If I ___ (know), I ___ (come). || had known ... would have come
+2. If he ___ (study), he ___ (pass). || had studied ... would have passed
+3. We ___ (not / be) late if we ___ (take) a taxi. || wouldn't have been ... had taken
+4. If you ___ (call) me, I ___ (help) you. || had called ... would have helped
+EX: Write a wish
+1. I don't have a job. || I wish I had a job.
+2. I can't speak French. || I wish I could speak French.
+3. I didn't go to the party. || I wish I had gone to the party.
+4. I am not tall. || I wish I were/was tall.

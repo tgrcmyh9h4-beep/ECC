@@ -1,0 +1,413 @@
+# The Passive Voice
+
+## Active and passive
+In an **active** sentence, the subject **does** the action:
+- "The cat **ate** the fish." (focus on the cat)
+In a **passive** sentence, the subject **receives** the action:
+- "The fish **was eaten** by the cat." (focus on the fish)
+We use the passive when:
+- the **action** is more important than who did it: "English **is spoken** all over the world."
+- we **don't know** who did it: "My bike **was stolen**."
+- it is **obvious** who did it: "He **was arrested**." (by the police, of course)
+- in formal or scientific writing: "The results **were analysed**."
+
+## How to make it: be + past participle (V3)
+The verb "be" changes for the tense. The V3 stays the same.
+| Tense | Active | Passive |
+| Present simple | They **make** cars here. | Cars **are made** here. |
+| Present continuous | They **are building** a bridge. | A bridge **is being built**. |
+| Past simple | Someone **stole** my bag. | My bag **was stolen**. |
+| Past continuous | They **were painting** the house. | The house **was being painted**. |
+| Present perfect | They **have sold** the house. | The house **has been sold**. |
+| Past perfect | They **had cancelled** the flight. | The flight **had been cancelled**. |
+| Future (will) | They **will open** a new shop. | A new shop **will be opened**. |
+| Going to | They **are going to repair** the road. | The road **is going to be repaired**. |
+| Modal | You **must sign** the form. | The form **must be signed**. |
+| Modal | They **can't fix** it. | It **can't be fixed**. |
+
+## By + agent
+Add "by" + the person/thing only when it is important:
+- "Romeo and Juliet" **was written by** Shakespeare.
+- This picture **was painted by** my grandfather.
+- The house **was destroyed by** a fire.
+
+## Common passive phrases in daily life
+- I **was born** in 1995. (never "I born" or "I am born")
+- It **is made of** wood / glass / gold.
+- It **is made in** China.
+- She **was invited** to the wedding.
+- The shop **is closed** on Sundays.
+- The meeting **has been cancelled**.
+- Breakfast **is included**.
+- English **is spoken** here.
+- **Is** this seat **taken**?
+- I **was told** to wait here.
+- He **got injured** in an accident. ("get" + V3 is informal passive)
+- We **got married** in 2020.
+! I born in Delhi. => I **was born** in Delhi.
+! The letter was wrote yesterday. => The letter was **written** yesterday.
+! This house built in 1990. => This house **was built** in 1990.
+! The window was broke. => The window was **broken**.
+EX: Change to passive
+1. They clean the room every day. || The room is cleaned every day.
+2. Someone stole my phone. || My phone was stolen.
+3. They are building a new hospital. || A new hospital is being built.
+4. They have cancelled the match. || The match has been cancelled.
+5. They will deliver the parcel tomorrow. || The parcel will be delivered tomorrow.
+6. Shakespeare wrote Hamlet. || Hamlet was written by Shakespeare.
+7. You must wear a helmet. || A helmet must be worn.
+8. People speak Spanish in Mexico. || Spanish is spoken in Mexico.
+EX: Complete with the correct passive form
+1. I ___ (born) in Lucknow. || was born
+2. This bag ___ (make) of leather. || is made
+3. The thief ___ (catch) yesterday. || was caught
+4. Your car ___ (repair) at the moment. || is being repaired
+5. The results ___ (announce) next week. || will be announced
+
+# Reported Speech
+
+## Direct and reported speech
+**Direct speech** repeats the exact words: She said, "**I am tired**."
+**Reported (indirect) speech** reports the meaning: She said (that) **she was tired**.
+
+## Tense changes (backshift)
+When the reporting verb is in the past (said, told), the tense usually moves **one step back**.
+| Direct speech | Reported speech |
+| Present simple: "I **work** here." | Past simple: He said he **worked** there. |
+| Present continuous: "I **am cooking**." | Past continuous: She said she **was cooking**. |
+| Past simple: "I **saw** him." | Past perfect: He said he **had seen** him. |
+| Present perfect: "I **have finished**." | Past perfect: She said she **had finished**. |
+| will: "I **will** call you." | would: He said he **would** call me. |
+| can: "I **can** swim." | could: She said she **could** swim. |
+| may: "I **may** come." | might: He said he **might** come. |
+| must: "I **must** go." | had to: She said she **had to** go. |
+> **Tip:** If the information is still true now, you don't have to change the tense: "He said he **lives** in Delhi." (He still lives there.)
+
+## Other changes
+| Direct | Reported |
+| now | then / at that time |
+| today | that day |
+| tonight | that night |
+| yesterday | the day before / the previous day |
+| tomorrow | the next day / the following day |
+| last week | the week before / the previous week |
+| next week | the week after / the following week |
+| ago | before |
+| here | there |
+| this | that |
+| these | those |
+Pronouns change too: "**I** love **you**." → He said **he** loved **me**.
+
+## Say or tell?
+- **say** + (that) + sentence: She **said** (that) she was hungry. ("said to me" is possible but less common)
+- **tell** + **person** + (that) + sentence: She **told me** (that) she was hungry.
+! She said me she was hungry. => She **told me** she was hungry. / She **said** she was hungry.
+! He told that he was busy. => He **said** that he was busy. / He **told me** that he was busy.
+
+## Reported questions
+The word order becomes **normal** (subject + verb). No question mark. No do/does/did.
+| Direct question | Reported question |
+| "Where **do you live**?" | She asked me where **I lived**. |
+| "What **is** your name?" | He asked me what **my name was**. |
+| "**Are** you married?" | She asked **if / whether** I was married. |
+| "**Did** you see the film?" | He asked **if** I **had seen** the film. |
+| "**Can** you help me?" | She asked **if** I **could** help her. |
+! He asked me where did I live. => He asked me where **I lived**.
+
+## Reported orders and requests
+Use **tell / ask + person + (not) to + verb**:
+- "Sit down." → The teacher **told us to sit** down.
+- "Don't be late." → My boss **told me not to be** late.
+- "Please help me." → She **asked me to help** her.
+
+## Other reporting verbs
+| Verb | Example |
+| explain | He **explained** that the train was late. |
+| promise | She **promised to call** me. |
+| offer | He **offered to help**. |
+| refuse | They **refused to pay**. |
+| advise | The doctor **advised me to rest**. |
+| suggest | She **suggested going** to the cinema. |
+| apologise | He **apologised for being** late. |
+| agree | We **agreed to meet** at 6. |
+| warn | I **warned him not to touch** it. |
+| remind | **Remind me to buy** milk. |
+EX: Change to reported speech
+1. "I am happy," she said. || She said (that) she was happy.
+2. "I live in Mumbai," he said. || He said (that) he lived in Mumbai.
+3. "We will come tomorrow," they said. || They said (that) they would come the next day.
+4. "I saw the film yesterday," she said. || She said (that) she had seen the film the day before.
+5. "I can't swim," he said. || He said (that) he couldn't swim.
+6. "Where do you work?" she asked me. || She asked me where I worked.
+7. "Are you hungry?" he asked. || He asked if/whether I was hungry.
+8. "Close the door," the teacher told me. || The teacher told me to close the door.
+9. "Don't touch it," she said to the children. || She told the children not to touch it.
+10. "I have lost my keys," he said. || He said (that) he had lost his keys.
+EX: Say or tell?
+1. She ___ me a secret. || told
+2. He ___ that he was tired. || said
+3. Can you ___ me the time? || tell
+4. They ___ goodbye and left. || said
+5. Please ___ him to call me. || tell
+
+# Gerunds and Infinitives
+
+## What are they?
+- **Gerund** = verb + -ing used like a noun: **swimming**, **reading**, **eating**
+- **Infinitive** = to + verb: **to swim**, **to read**, **to eat**
+Some verbs are followed by a gerund, some by an infinitive, and some by both.
+
+## Gerund (-ing) after these verbs
+| Verb | Example |
+| enjoy | I **enjoy reading**. |
+| like / love / hate (also + to) | She **loves dancing**. |
+| don't mind | I **don't mind waiting**. |
+| finish | Have you **finished eating**? |
+| stop | **Stop talking**! |
+| avoid | Try to **avoid eating** junk food. |
+| consider | We're **considering moving**. |
+| suggest | He **suggested going** out. |
+| practise | You should **practise speaking**. |
+| keep (= continue) | She **kept calling** me. |
+| give up | He **gave up smoking**. |
+| can't stand | I **can't stand waiting**. |
+| miss | I **miss seeing** you. |
+| imagine | **Imagine living** on the moon! |
+| admit / deny | He **admitted stealing** the money. |
+| risk | Don't **risk losing** your job. |
+| feel like | I **feel like eating** pizza. |
+| look forward to | I'm **looking forward to seeing** you. |
+! I enjoy to read. => I enjoy **reading**.
+! I look forward to see you. => I look forward to **seeing** you.
+! He suggested to go. => He suggested **going**.
+
+## Gerund after prepositions
+After a preposition (in, on, at, of, for, about, without, before, after...), always use **-ing**:
+- I'm interested **in learning** Spanish.
+- She's good **at cooking**.
+- Thank you **for helping** me.
+- He left **without saying** goodbye.
+- **Before going** to bed, I brush my teeth.
+- I'm thinking **about changing** my job.
+- How **about going** for a walk?
+
+## Gerund as a subject
+- **Swimming** is good exercise.
+- **Learning** English takes time.
+- **Smoking** is bad for your health.
+
+## Infinitive (to + verb) after these verbs
+| Verb | Example |
+| want | I **want to learn** English. |
+| need | You **need to sleep**. |
+| decide | We **decided to stay**. |
+| hope | I **hope to see** you soon. |
+| plan | They **plan to travel**. |
+| promise | He **promised to help**. |
+| agree | She **agreed to come**. |
+| refuse | He **refused to answer**. |
+| learn | I'm **learning to drive**. |
+| try (make an effort) | **Try to relax**. |
+| would like / would love | I'**d like to go**. |
+| offer | She **offered to pay**. |
+| afford | I **can't afford to buy** a car. |
+| seem | He **seems to be** happy. |
+| forget / remember (see below) | Don't **forget to call** me. |
+| manage | I **managed to finish** on time. |
+| expect | I **expect to be** there by 6. |
+| choose | She **chose to stay**. |
+| pretend | He **pretended to be** asleep. |
+| tend | People **tend to forget**. |
+
+## Infinitive of purpose (why?)
+Use **to + verb** to say **why** you do something:
+- I went to the shop **to buy** some bread.
+- She's saving money **to buy** a car.
+- I'm learning English **to get** a better job.
+! I went to the shop for buy bread. => I went to the shop **to buy** bread.
+! I came here for to study. => I came here **to study**.
+
+## Adjective + infinitive
+- It's **easy to learn**.
+- It's **nice to meet** you.
+- I'm **happy to help**.
+- It's **difficult to understand**.
+- It's **important to sleep** well.
+
+## Verbs with a different meaning
+| Verb | + -ing | + to |
+| stop | stop the activity: I **stopped smoking**. (I don't smoke now) | stop in order to do something: I **stopped to smoke**. (I stopped walking so I could smoke) |
+| remember | memory of the past: I **remember meeting** her. | not forget to do: **Remember to lock** the door. |
+| forget | forget a past event: I'll never **forget seeing** the Taj Mahal. | forget a task: I **forgot to call** her. |
+| try | experiment: **Try drinking** warm water. | make an effort: I **tried to open** it, but I couldn't. |
+| regret | sorry about the past: I **regret telling** him. | sorry to give bad news: We **regret to inform** you... |
+
+## Make and let + base verb (no "to")
+- My mother **made me clean** my room. (forced)
+- My father **let me drive** his car. (allowed)
+- **Let's go**!
+- Don't **make me laugh**!
+! She made me to wait. => She made me **wait**.
+! Let me to help you. => Let me **help** you.
+EX: Gerund or infinitive?
+1. I enjoy ___ (swim). || swimming
+2. She wants ___ (become) a doctor. || to become
+3. They decided ___ (sell) the house. || to sell
+4. Do you mind ___ (open) the window? || opening
+5. I'm looking forward to ___ (meet) you. || meeting
+6. He promised ___ (call) me. || to call
+7. Stop ___ (make) that noise! || making
+8. I went to the bank ___ (get) some money. || to get
+9. She is good at ___ (draw). || drawing
+10. We can't afford ___ (buy) a new car. || to buy
+11. Thank you for ___ (help) me. || helping
+12. I need ___ (talk) to you. || to talk
+13. He gave up ___ (smoke) last year. || smoking
+14. My parents let me ___ (stay) out late. || stay
+15. Remember ___ (turn off) the lights. || to turn off
+
+# Relative Clauses: Who, Which, That, Where, Whose
+
+## What is a relative clause?
+A relative clause gives more information about a noun. It helps you join two sentences.
+- I have a friend. **She** lives in Paris. → I have a friend **who** lives in Paris.
+- This is the book. I bought **it** yesterday. → This is the book **that** I bought yesterday.
+
+## Relative pronouns
+| Pronoun | For | Example |
+| who | people | The man **who** called you is my uncle. |
+| which | things, animals | The phone **which** I bought is great. |
+| that | people or things (informal) | The film **that** we saw was boring. |
+| where | places | This is the house **where** I was born. |
+| when | times | I remember the day **when** we met. |
+| whose | possession | That's the girl **whose** father is a pilot. |
+| whom | people as object (formal) | The person **whom** I met was kind. |
+! The man which lives here. => The man **who** lives here.
+! The book who I read. => The book **which/that** I read.
+! This is the man who he helped me. => This is the man who helped me. (don't repeat the pronoun)
+! The city where I live in. => The city where I live. / The city (which) I live in.
+
+## Can I leave out who/which/that?
+Yes, when it is the **object** of the relative clause (there is another subject after it):
+- The film (**that**) **we** saw was great. ✓ (we = subject)
+- The man (**who**) **I** met was friendly. ✓
+No, when it is the **subject**:
+- The man **who** lives next door is a doctor. (You can't remove "who".)
+
+## Defining and non-defining
+- **Defining** (no commas): necessary information. "Students **who study hard** pass exams." (only those students)
+- **Non-defining** (with commas): extra information. "My brother, **who lives in Delhi**, is a lawyer." (I have only one brother; the information is extra.)
+In non-defining clauses, you **cannot** use "that": "My car, **which** is red, is very fast." (not "that")
+EX: Complete with who, which, where or whose
+1. A doctor is someone ___ helps sick people. || who
+2. This is the restaurant ___ we had our first date. || where
+3. I lost the watch ___ my father gave me. || which/that
+4. That's the woman ___ son plays for India. || whose
+5. The people ___ live upstairs are very noisy. || who/that
+6. A fridge is a machine ___ keeps food cold. || which/that
+7. Do you know a shop ___ I can buy cheap shoes? || where
+8. He's the boy ___ bike was stolen. || whose
+EX: Join the sentences
+1. I have a friend. He speaks five languages. || I have a friend who speaks five languages.
+2. This is the café. I met my wife here. || This is the café where I met my wife.
+3. She bought a dress. It was very expensive. || She bought a dress which/that was very expensive.
+4. I know a man. His daughter is an actress. || I know a man whose daughter is an actress.
+
+# Linking Words and Conjunctions
+
+## Why linking words matter
+Linking words connect your ideas. They make your speaking and writing **smooth** and **clear**. Without them, you sound like a robot: "I was tired. I went to bed. I didn't sleep." With them: "I was tired, **so** I went to bed, **but** I couldn't sleep."
+
+## The basic linkers
+| Purpose | Words | Example |
+| Adding | and, also, too, as well, in addition, moreover, furthermore, besides | I like tea **and** coffee. She speaks French **too**. |
+| Contrast | but, however, although, though, even though, while, whereas, on the other hand, despite, in spite of | It was raining, **but** we went out. **Although** he's rich, he isn't happy. |
+| Reason | because, because of, since, as, due to | I stayed home **because** I was sick. **Because of** the rain, the match was cancelled. |
+| Result | so, therefore, as a result, that's why | I was hungry, **so** I ate. He didn't study. **As a result**, he failed. |
+| Purpose | to, in order to, so that | I study **to** get a good job. Speak slowly **so that** everyone understands. |
+| Condition | if, unless, as long as, in case | Take an umbrella **in case** it rains. |
+| Time / sequence | first, then, next, after that, finally, before, after, when, while, as soon as, until | **First**, wash the rice. **Then** add water. **Finally**, cook it for 15 minutes. |
+| Example | for example, for instance, such as, like | I love fruit, **such as** mangoes and bananas. |
+| Opinion | in my opinion, I think, personally, I believe | **In my opinion**, the film was too long. |
+| Summary | in conclusion, to sum up, overall, in short | **In conclusion**, exercise is important. |
+| Emphasis | in fact, actually, especially, indeed | I'm not tired. **In fact**, I feel great. |
+
+## Because vs because of
+- **because** + subject + verb: "The flight was late **because** **the weather was bad**."
+- **because of** + noun: "The flight was late **because of** **the bad weather**."
+
+## Although / even though vs despite / in spite of
+- **although / even though** + subject + verb: "**Although** **it was cold**, we went swimming."
+- **despite / in spite of** + noun or -ing: "**Despite** **the cold**, we went swimming." "**In spite of** **being** tired, she finished the work."
+! Although it was raining, but we went out. => **Although** it was raining, we went out. (don't use "although" and "but" together)
+! Despite of the rain. => **Despite** the rain. / **In spite of** the rain.
+! Because I was tired, so I slept. => **Because** I was tired, I slept. / I was tired, **so** I slept.
+
+## So and such
+- **so** + adjective / adverb: "It was **so hot**." "She speaks **so quickly**."
+- **such** + (a/an) + adjective + noun: "It was **such a hot** day." "They are **such nice** people."
+- so/such ... **that** (result): "It was **so** cold **that** we stayed inside." "It was **such** a good film **that** I watched it twice."
+
+## Both ... and, either ... or, neither ... nor, not only ... but also
+- **Both** my brother **and** my sister are doctors.
+- You can **either** call me **or** send a message.
+- **Neither** the bus **nor** the train was on time.
+- She is **not only** clever **but also** very kind.
+
+## Punctuation with linkers
+- **However**, **therefore**, **moreover** usually start a new sentence and have a comma after: "I wanted to go. **However**, I was too tired."
+- **But**, **so**, **and** join two parts of one sentence: "I wanted to go, **but** I was too tired."
+EX: Choose the best linking word
+1. I was hungry, (so / but) I made a sandwich. || so
+2. She is rich, (but / so) she isn't happy. || but
+3. We stayed at home (because / because of) the storm. || because of
+4. (Although / Despite) he was ill, he went to work. || Although
+5. (Although / Despite) the rain, we played football. || Despite
+6. It was (so / such) a beautiful day. || such
+7. The tea is (so / such) hot that I can't drink it. || so
+8. I study hard (to / for) pass my exams. || to
+9. Take a jacket (in case / unless) it gets cold. || in case
+10. I like many sports, (such as / so) football and tennis. || such as
+11. (First / Finally), boil the water. Then add the pasta. || First
+12. She can speak (both / either) English and Hindi. || both
+
+# Punctuation and Capital Letters
+
+## Capital letters
+Use a capital letter for:
+- The **first word** of a sentence: "**T**he sun is hot."
+- The word **I**: "My friend and **I** went out."
+- **Names** of people and places: **P**riya, **L**ondon, **M**ount **E**verest
+- **Days and months**: **M**onday, **J**uly (but not seasons: summer, winter)
+- **Languages and nationalities**: **E**nglish, **J**apanese, **I**ndian
+- **Titles**: **M**r **S**harma, **D**r **K**han, **P**rofessor **R**ao
+- Names of **books, films, companies**: *The Lion King*, **G**oogle
+
+## Main punctuation marks
+| Mark | Name | Use | Example |
+| . | full stop (UK) / period (US) | end of a sentence | I am tired. |
+| , | comma | pauses, lists, after linkers | I bought apples, bananas and grapes. |
+| ? | question mark | end of a question | Where are you? |
+| ! | exclamation mark | strong feeling | Wow! That's amazing! |
+| ' | apostrophe | short forms, possession | don't, it's, Ravi's car |
+| " " | quotation marks | direct speech | She said, "Hello." |
+| : | colon | before a list or explanation | You need three things: a pen, paper and time. |
+| ; | semicolon | joins two related sentences | It was late; we went home. |
+| - | hyphen | joins words | a well-known actor, twenty-one |
+| ( ) | brackets | extra information | My boss (who is very kind) helped me. |
+## Common comma rules
+- After introductory words: "**However,** I was late." "**Yesterday,** I went to the market."
+- In lists: "red, blue, green and yellow"
+- Before "but" and "so" joining two sentences: "I like tea, **but** she likes coffee."
+- After an if-clause at the start: "If it rains, we will stay home."
+- Around extra information: "My sister, **a nurse**, works at night."
+## Apostrophe mistakes
+! Apple's for sale. => Apple**s** for sale. (plural – no apostrophe)
+! The dog wagged it's tail. => The dog wagged **its** tail.
+! In the 1990's => In the **1990s**
+EX: Add capital letters and punctuation
+1. my name is ali and i live in dubai || My name is Ali and I live in Dubai.
+2. where do you work || Where do you work?
+3. i bought eggs milk bread and butter || I bought eggs, milk, bread and butter.
+4. we met on monday in june || We met on Monday in June.
+5. its my brothers car || It's my brother's car.
